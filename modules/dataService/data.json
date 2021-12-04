@@ -1,0 +1,3706 @@
+{
+    "data": [
+        {
+            "label": "Pohlaví",
+            "items": [
+                {
+                    "label": "Muži",
+                    "percent": 68.85964912280701,
+                    "percent_avg": 49.70725995316159
+                },
+                {
+                    "label": "Ženy",
+                    "percent": 31.140350877192986,
+                    "percent_avg": 50.292740046838404
+                }
+            ]
+        },
+        {
+            "label": "Věk",
+            "items": [
+                {
+                    "label": "18 až 29 let",
+                    "percent": 16.666666666666664,
+                    "percent_avg": 19.642857142857142
+                },
+                {
+                    "label": "30 až 44 let",
+                    "percent": 39.473684210526315,
+                    "percent_avg": 35.2751756440281
+                },
+                {
+                    "label": "45 až 64 let",
+                    "percent": 34.64912280701755,
+                    "percent_avg": 35.011709601873534
+                },
+                {
+                    "label": "65 + let",
+                    "percent": 9.210526315789473,
+                    "percent_avg": 10.070257611241217
+                }
+            ]
+        },
+        {
+            "label": "Vzdělání",
+            "items": [
+                {
+                    "label": "ZŠ",
+                    "percent": 3.9473684210526314,
+                    "percent_avg": 5.649882903981265
+                },
+                {
+                    "label": "SŠ bez maturity",
+                    "percent": 18.421052631578945,
+                    "percent_avg": 31.64519906323185
+                },
+                {
+                    "label": "SŠ s maturitou",
+                    "percent": 38.59649122807017,
+                    "percent_avg": 38.67096018735363
+                },
+                {
+                    "label": "VŠ",
+                    "percent": 39.03508771929825,
+                    "percent_avg": 24.004683840749415
+                }
+            ]
+        },
+        {
+            "label": "Ekonomická situace",
+            "items": [
+                {
+                    "label": "Vyšší příjem",
+                    "percent": 36.84210526315789,
+                    "percent_avg": 28.54215456674473
+                },
+                {
+                    "label": "Střední příjem",
+                    "percent": 37.280701754385966,
+                    "percent_avg": 36.768149882903984
+                },
+                {
+                    "label": "Nižší příjem",
+                    "percent": 25.877192982456144,
+                    "percent_avg": 34.68969555035129
+                }
+            ]
+        },
+        {
+            "label": "Region",
+            "items": [
+                {
+                    "label": "Praha",
+                    "percent": 34.64912280701755,
+                    "percent_avg": 11.943793911007026
+                },
+                {
+                    "label": "Střední Čechy",
+                    "percent": 16.228070175438596,
+                    "percent_avg": 12.763466042154567
+                },
+                {
+                    "label": "Jihovýchod",
+                    "percent": 10.526315789473683,
+                    "percent_avg": 15.837236533957846
+                },
+                {
+                    "label": "Severovýchod",
+                    "percent": 10.087719298245613,
+                    "percent_avg": 14.314988290398126
+                },
+                {
+                    "label": "Jihozápad",
+                    "percent": 9.210526315789473,
+                    "percent_avg": 11.7096018735363
+                },
+                {
+                    "label": "Severozápad",
+                    "percent": 8.333333333333332,
+                    "percent_avg": 10.597189695550352
+                },
+                {
+                    "label": "Moravskoslezsko",
+                    "percent": 6.578947368421052,
+                    "percent_avg": 11.416861826697893
+                },
+                {
+                    "label": "Střední Morava",
+                    "percent": 4.385964912280701,
+                    "percent_avg": 11.387587822014051
+                }
+            ]
+        },
+        {
+            "label": "Životní fáze",
+            "items": [
+                {
+                    "label": "Rodina s malými dětmi",
+                    "percent": 22.36842105263158,
+                    "percent_avg": 19.994145199063233
+                },
+                {
+                    "label": "Opuštěné hnízdo",
+                    "percent": 21.052631578947366,
+                    "percent_avg": 22.33606557377049
+                },
+                {
+                    "label": "Rodina se staršími dětmi",
+                    "percent": 19.298245614035086,
+                    "percent_avg": 23.38992974238876
+                },
+                {
+                    "label": "Mladí bezdětní",
+                    "percent": 15.350877192982457,
+                    "percent_avg": 16.978922716627633
+                },
+                {
+                    "label": "Starší bezdětní",
+                    "percent": 12.719298245614036,
+                    "percent_avg": 9.39695550351288
+                },
+                {
+                    "label": "Nepracující senioři",
+                    "percent": 10.087719298245613,
+                    "percent_avg": 11.68032786885246
+                },
+                {
+                    "label": "Studenti",
+                    "percent": 2.631578947368421,
+                    "percent_avg": 4.039812646370024
+                }
+            ]
+        },
+        {
+            "label": "Kde bydlí",
+            "items": [
+                {
+                    "label": "Obec nad 50 tis.",
+                    "percent": 49.56140350877193,
+                    "percent_avg": 29.449648711943794
+                },
+                {
+                    "label": "Širší centrum velkého města",
+                    "percent": 31.140350877192986,
+                    "percent_avg": 17.505854800936767
+                },
+                {
+                    "label": "Vesnice",
+                    "percent": 21.929824561403507,
+                    "percent_avg": 36.241217798594846
+                },
+                {
+                    "label": "Sídliště",
+                    "percent": 21.052631578947366,
+                    "percent_avg": 18.940281030444964
+                },
+                {
+                    "label": "Obec od 10 do 50 tis.",
+                    "percent": 18.859649122807017,
+                    "percent_avg": 21.984777517564403
+                },
+                {
+                    "label": "Širší centrum malého města",
+                    "percent": 17.543859649122805,
+                    "percent_avg": 21.340749414519905
+                },
+                {
+                    "label": "Obec do 2 tis.",
+                    "percent": 15.789473684210526,
+                    "percent_avg": 26.46370023419204
+                },
+                {
+                    "label": "Obec od 2 do 10 tis.",
+                    "percent": 15.789473684210526,
+                    "percent_avg": 22.072599531615925
+                },
+                {
+                    "label": "Satelitní městečko",
+                    "percent": 3.070175438596491,
+                    "percent_avg": 2.576112412177986
+                }
+            ]
+        },
+        {
+            "label": "Domácnost",
+            "items": [
+                {
+                    "label": "Opravy svépomocí",
+                    "percent": 88.1578947368421,
+                    "percent_avg": 87.41217798594847
+                },
+                {
+                    "label": "Mají doma televizi",
+                    "percent": 87.28070175438597,
+                    "percent_avg": 92.03747072599532
+                },
+                {
+                    "label": "Používají auto",
+                    "percent": 82.89473684210526,
+                    "percent_avg": 85.45081967213115
+                },
+                {
+                    "label": "Uklízí",
+                    "percent": 77.19298245614034,
+                    "percent_avg": 79.15690866510539
+                },
+                {
+                    "label": "Vaří nebo pečou",
+                    "percent": 73.24561403508771,
+                    "percent_avg": 75.87822014051523
+                },
+                {
+                    "label": "Drobné domácí opravy sami",
+                    "percent": 72.36842105263158,
+                    "percent_avg": 62.704918032786885
+                },
+                {
+                    "label": "Mají děti",
+                    "percent": 71.9298245614035,
+                    "percent_avg": 73.62412177985948
+                },
+                {
+                    "label": "Žijí ve vlastním",
+                    "percent": 66.22807017543859,
+                    "percent_avg": 69.61358313817331
+                },
+                {
+                    "label": "Pěstují květiny",
+                    "percent": 63.1578947368421,
+                    "percent_avg": 61.35831381733021
+                },
+                {
+                    "label": "Perou a žehlí",
+                    "percent": 61.40350877192983,
+                    "percent_avg": 64.02224824355972
+                },
+                {
+                    "label": "Žijí s partnerem",
+                    "percent": 60.526315789473685,
+                    "percent_avg": 61.47540983606557
+                },
+                {
+                    "label": "Bydlí v bytě",
+                    "percent": 59.64912280701754,
+                    "percent_avg": 51.7271662763466
+                },
+                {
+                    "label": "Středně velké auto",
+                    "percent": 58.77192982456141,
+                    "percent_avg": 62.880562060889936
+                },
+                {
+                    "label": "Mají PC",
+                    "percent": 57.89473684210527,
+                    "percent_avg": 45.843091334894616
+                },
+                {
+                    "label": "Dva mají příjem",
+                    "percent": 54.385964912280706,
+                    "percent_avg": 55.09367681498829
+                },
+                {
+                    "label": "Mají tablet",
+                    "percent": 53.07017543859649,
+                    "percent_avg": 42.79859484777517
+                },
+                {
+                    "label": "Zahrádkáři",
+                    "percent": 51.75438596491229,
+                    "percent_avg": 51.375878220140514
+                },
+                {
+                    "label": "Pečují o zvířata",
+                    "percent": 50.877192982456144,
+                    "percent_avg": 54.4496487119438
+                },
+                {
+                    "label": "Sezdaní",
+                    "percent": 45.614035087719294,
+                    "percent_avg": 46.28220140515222
+                },
+                {
+                    "label": "Plánují rekonstrukci",
+                    "percent": 42.10526315789473,
+                    "percent_avg": 32.72833723653395
+                },
+                {
+                    "label": "Žijí s dětmi",
+                    "percent": 41.66666666666667,
+                    "percent_avg": 44.17447306791569
+                },
+                {
+                    "label": "Bydlí v domě",
+                    "percent": 36.40350877192983,
+                    "percent_avg": 46.28220140515222
+                },
+                {
+                    "label": "Jeden v domácnosti má příjem",
+                    "percent": 33.771929824561404,
+                    "percent_avg": 32.933255269320846
+                },
+                {
+                    "label": "Plánují změnu interiéru",
+                    "percent": 33.33333333333333,
+                    "percent_avg": 27.985948477751755
+                },
+                {
+                    "label": "Příjem domácnosti nad 50 000 Kč",
+                    "percent": 29.82456140350877,
+                    "percent_avg": 22.394613583138174
+                },
+                {
+                    "label": "Žijí v pronájmu",
+                    "percent": 29.82456140350877,
+                    "percent_avg": 28.395784543325526
+                },
+                {
+                    "label": "Chtějí koupit nemovitost",
+                    "percent": 29.385964912280706,
+                    "percent_avg": 17.037470725995316
+                },
+                {
+                    "label": "Nemají děti",
+                    "percent": 28.07017543859649,
+                    "percent_avg": 26.346604215456676
+                },
+                {
+                    "label": "Mají chytrou domácnost",
+                    "percent": 25.877192982456144,
+                    "percent_avg": 14.49063231850117
+                },
+                {
+                    "label": "Příjem domácnosti 30 000 – 39 000 Kč",
+                    "percent": 24.561403508771928,
+                    "percent_avg": 26.727166276346605
+                },
+                {
+                    "label": "Svobodní",
+                    "percent": 21.49122807017544,
+                    "percent_avg": 19.730679156908664
+                },
+                {
+                    "label": "Plánují stavbu domu",
+                    "percent": 21.49122807017544,
+                    "percent_avg": 12.704918032786885
+                },
+                {
+                    "label": "Mají doma bazén",
+                    "percent": 20.175438596491226,
+                    "percent_avg": 17.53512880562061
+                },
+                {
+                    "label": "Minivan/SUV",
+                    "percent": 18.421052631578945,
+                    "percent_avg": 19.350117096018735
+                },
+                {
+                    "label": "Žijí sami",
+                    "percent": 17.543859649122805,
+                    "percent_avg": 13.524590163934427
+                },
+                {
+                    "label": "Nepoužívají auto",
+                    "percent": 17.105263157894736,
+                    "percent_avg": 14.549180327868852
+                },
+                {
+                    "label": "Rozvedení",
+                    "percent": 17.105263157894736,
+                    "percent_avg": 14.256440281030445
+                },
+                {
+                    "label": "Příjem domácnosti 40 000 –49 000 Kč",
+                    "percent": 16.666666666666664,
+                    "percent_avg": 19.730679156908664
+                },
+                {
+                    "label": "Příjem domácnosti 20 000 –29 000 Kč",
+                    "percent": 15.789473684210526,
+                    "percent_avg": 16.627634660421545
+                },
+                {
+                    "label": "Mají doma dítě na ZŠ",
+                    "percent": 15.789473684210526,
+                    "percent_avg": 20.052693208430913
+                },
+                {
+                    "label": "Mají doma motorku",
+                    "percent": 14.473684210526317,
+                    "percent_avg": 13.670960187353632
+                },
+                {
+                    "label": "Mají doma dítě do 3 let",
+                    "percent": 14.473684210526317,
+                    "percent_avg": 13.144028103044498
+                },
+                {
+                    "label": "Příjem domácnosti do 20 000 Kč",
+                    "percent": 13.157894736842104,
+                    "percent_avg": 14.519906323185012
+                },
+                {
+                    "label": "Malá hospodářská zvířata",
+                    "percent": 12.719298245614036,
+                    "percent_avg": 14.49063231850117
+                },
+                {
+                    "label": "Žijí nesezdaní",
+                    "percent": 12.719298245614036,
+                    "percent_avg": 14.841920374707259
+                },
+                {
+                    "label": "Mají doma předškolní dítě",
+                    "percent": 12.280701754385964,
+                    "percent_avg": 10.94847775175644
+                },
+                {
+                    "label": "Tři a více má příjem",
+                    "percent": 11.842105263157894,
+                    "percent_avg": 11.973067915690866
+                },
+                {
+                    "label": "Na opravy odborníka",
+                    "percent": 11.842105263157894,
+                    "percent_avg": 12.587822014051522
+                },
+                {
+                    "label": "Malé auto",
+                    "percent": 11.403508771929824,
+                    "percent_avg": 11.533957845433255
+                },
+                {
+                    "label": "Žijí s rodiči",
+                    "percent": 10.964912280701753,
+                    "percent_avg": 13.846604215456674
+                },
+                {
+                    "label": "Žijí se spolubydlícím",
+                    "percent": 10.526315789473683,
+                    "percent_avg": 9.104215456674474
+                },
+                {
+                    "label": "Tlačítkový telefon",
+                    "percent": 7.894736842105263,
+                    "percent_avg": 9.30913348946136
+                },
+                {
+                    "label": "Mají doma dospělé dítě",
+                    "percent": 7.017543859649122,
+                    "percent_avg": 10.626463700234192
+                },
+                {
+                    "label": "Mají doma středoškoláka",
+                    "percent": 5.701754385964912,
+                    "percent_avg": 8.840749414519907
+                },
+                {
+                    "label": "Bydlí jinde",
+                    "percent": 3.9473684210526314,
+                    "percent_avg": 1.9906323185011712
+                },
+                {
+                    "label": "Ovdovělí",
+                    "percent": 3.070175438596491,
+                    "percent_avg": 4.859484777517564
+                },
+                {
+                    "label": "Nedělají domácí práce",
+                    "percent": 1.3157894736842104,
+                    "percent_avg": 1.3173302107728337
+                }
+            ]
+        },
+        {
+            "label": "Finance",
+            "items": [
+                {
+                    "label": "Čistý příjem nad 20 000 Kč",
+                    "percent": 63.59649122807017,
+                    "percent_avg": 43.413348946135834
+                },
+                {
+                    "label": "Pojištění domácnosti/nemovitosti",
+                    "percent": 61.40350877192983,
+                    "percent_avg": 54.01053864168618
+                },
+                {
+                    "label": "Ušetří z příjmu",
+                    "percent": 60.526315789473685,
+                    "percent_avg": 46.39929742388759
+                },
+                {
+                    "label": "Životní pojištění",
+                    "percent": 54.824561403508774,
+                    "percent_avg": 44.78922716627635
+                },
+                {
+                    "label": "Důchodové spoření",
+                    "percent": 50.43859649122807,
+                    "percent_avg": 43.29625292740047
+                },
+                {
+                    "label": "Úrazové pojištění",
+                    "percent": 48.68421052631579,
+                    "percent_avg": 40.632318501170964
+                },
+                {
+                    "label": "Havarijní pojištění",
+                    "percent": 47.80701754385965,
+                    "percent_avg": 37.3536299765808
+                },
+                {
+                    "label": "Spořicí účet",
+                    "percent": 43.859649122807014,
+                    "percent_avg": 31.762295081967213
+                },
+                {
+                    "label": "Menší finanční rezerva",
+                    "percent": 43.42105263157895,
+                    "percent_avg": 45.98946135831382
+                },
+                {
+                    "label": "Stavební spoření",
+                    "percent": 36.84210526315789,
+                    "percent_avg": 29.596018735363
+                },
+                {
+                    "label": "Osobní úvěr",
+                    "percent": 32.45614035087719,
+                    "percent_avg": 28.92271662763466
+                },
+                {
+                    "label": "Investují",
+                    "percent": 32.45614035087719,
+                    "percent_avg": 16.715456674473067
+                },
+                {
+                    "label": "Kontokorent",
+                    "percent": 29.82456140350877,
+                    "percent_avg": 23.4192037470726
+                },
+                {
+                    "label": "Finanční rezerva na půlrok",
+                    "percent": 27.631578947368425,
+                    "percent_avg": 21.45784543325527
+                },
+                {
+                    "label": "Rizikové cestovní",
+                    "percent": 27.631578947368425,
+                    "percent_avg": 16.510538641686182
+                },
+                {
+                    "label": "Neušetří z příjmu",
+                    "percent": 25.438596491228072,
+                    "percent_avg": 36.38758782201405
+                },
+                {
+                    "label": "Hypotéka",
+                    "percent": 22.36842105263158,
+                    "percent_avg": 16.686182669789225
+                },
+                {
+                    "label": "Přežívají od výplaty k výplatě",
+                    "percent": 20.175438596491226,
+                    "percent_avg": 23.507025761124122
+                },
+                {
+                    "label": "Investují do nemovitostí",
+                    "percent": 16.228070175438596,
+                    "percent_avg": 7.201405152224824
+                },
+                {
+                    "label": "Čistý příjem 11 000 až 15 000 Kč",
+                    "percent": 15.350877192982457,
+                    "percent_avg": 20.140515222482435
+                },
+                {
+                    "label": "Nemají pojištění",
+                    "percent": 14.473684210526317,
+                    "percent_avg": 19.789227166276348
+                },
+                {
+                    "label": "Investují do kryptoměn",
+                    "percent": 14.035087719298245,
+                    "percent_avg": 5.562060889929742
+                },
+                {
+                    "label": "Podnikatelský účet",
+                    "percent": 12.280701754385964,
+                    "percent_avg": 6.381733021077284
+                },
+                {
+                    "label": "Čistý příjem 16 000 až 20 000 Kč",
+                    "percent": 11.403508771929824,
+                    "percent_avg": 20.228337236533957
+                },
+                {
+                    "label": "Čistý příjem do 10 000 Kč",
+                    "percent": 9.649122807017543,
+                    "percent_avg": 16.21779859484778
+                },
+                {
+                    "label": "Vážné finanční problémy",
+                    "percent": 5.701754385964912,
+                    "percent_avg": 6.557377049180328
+                }
+            ]
+        },
+        {
+            "label": "Práce",
+            "items": [
+                {
+                    "label": "Plný úvazek",
+                    "percent": 79.82456140350878,
+                    "percent_avg": 70.37470725995317
+                },
+                {
+                    "label": "Radši práci řídí",
+                    "percent": 70.17543859649122,
+                    "percent_avg": 61.47540983606557
+                },
+                {
+                    "label": "Zaměstnanci",
+                    "percent": 62.28070175438597,
+                    "percent_avg": 61.76814988290398
+                },
+                {
+                    "label": "Snadno najdou práci",
+                    "percent": 60.96491228070175,
+                    "percent_avg": 52.166276346604214
+                },
+                {
+                    "label": "Dojíždí do 30 min",
+                    "percent": 57.01754385964912,
+                    "percent_avg": 54.42037470725995
+                },
+                {
+                    "label": "Nemají podřízené",
+                    "percent": 53.07017543859649,
+                    "percent_avg": 51.229508196721305
+                },
+                {
+                    "label": "Práce hlavou",
+                    "percent": 52.63157894736842,
+                    "percent_avg": 36.007025761124126
+                },
+                {
+                    "label": "Pracují ve firmě",
+                    "percent": 50.43859649122807,
+                    "percent_avg": 47.13114754098361
+                },
+                {
+                    "label": "Pracují v týmu",
+                    "percent": 43.859649122807014,
+                    "percent_avg": 39.25644028103045
+                },
+                {
+                    "label": "Nehledají novou práci, ale jsou otevření nabídkám",
+                    "percent": 42.10526315789473,
+                    "percent_avg": 35.88992974238876
+                },
+                {
+                    "label": "Používají LinkedIn",
+                    "percent": 35.96491228070175,
+                    "percent_avg": 15.251756440281032
+                },
+                {
+                    "label": "Hledají práci",
+                    "percent": 32.01754385964912,
+                    "percent_avg": 24.092505854800937
+                },
+                {
+                    "label": "Do práce hromadnou dopravou",
+                    "percent": 30.701754385964914,
+                    "percent_avg": 16.74473067915691
+                },
+                {
+                    "label": "Radši jsou řízeni",
+                    "percent": 29.82456140350877,
+                    "percent_avg": 38.52459016393443
+                },
+                {
+                    "label": "Do práce autem",
+                    "percent": 28.947368421052634,
+                    "percent_avg": 36.56323185011709
+                },
+                {
+                    "label": "Pracují sami",
+                    "percent": 28.50877192982456,
+                    "percent_avg": 24.502341920374707
+                },
+                {
+                    "label": "Mají podřízené",
+                    "percent": 24.561403508771928,
+                    "percent_avg": 18.35480093676815
+                },
+                {
+                    "label": "Nehledají práci",
+                    "percent": 24.12280701754386,
+                    "percent_avg": 38.96370023419204
+                },
+                {
+                    "label": "Práce v zahraničí",
+                    "percent": 20.175438596491226,
+                    "percent_avg": 12.324355971896955
+                },
+                {
+                    "label": "Brigády nebo nepracují",
+                    "percent": 20.175438596491226,
+                    "percent_avg": 29.508196721311474
+                },
+                {
+                    "label": "Těžko shání práci",
+                    "percent": 18.421052631578945,
+                    "percent_avg": 22.21896955503513
+                },
+                {
+                    "label": "OSVČ a podnikatelé",
+                    "percent": 17.543859649122805,
+                    "percent_avg": 8.60655737704918
+                },
+                {
+                    "label": "Manuální zaměstnání",
+                    "percent": 14.912280701754385,
+                    "percent_avg": 21.633489461358312
+                },
+                {
+                    "label": "Výroba a provoz",
+                    "percent": 13.596491228070176,
+                    "percent_avg": 19.584309133489462
+                },
+                {
+                    "label": "Inženýring",
+                    "percent": 13.157894736842104,
+                    "percent_avg": 5.679156908665106
+                },
+                {
+                    "label": "Obchod",
+                    "percent": 13.157894736842104,
+                    "percent_avg": 10.450819672131148
+                },
+                {
+                    "label": "Dojíždí do hodiny",
+                    "percent": 12.719298245614036,
+                    "percent_avg": 9.104215456674474
+                },
+                {
+                    "label": "Poloviční úvazek",
+                    "percent": 11.842105263157894,
+                    "percent_avg": 10.50936768149883
+                },
+                {
+                    "label": "V důchodu",
+                    "percent": 10.964912280701753,
+                    "percent_avg": 14.227166276346603
+                },
+                {
+                    "label": "Pracují ve veřejné instituci",
+                    "percent": 10.526315789473683,
+                    "percent_avg": 12.295081967213115
+                },
+                {
+                    "label": "Do práce pěšky",
+                    "percent": 8.771929824561402,
+                    "percent_avg": 8.840749414519907
+                },
+                {
+                    "label": "Finance a bankovnictví",
+                    "percent": 8.771929824561402,
+                    "percent_avg": 3.7763466042154565
+                },
+                {
+                    "label": "IT a telekomunikace",
+                    "percent": 8.771929824561402,
+                    "percent_avg": 2.693208430913349
+                },
+                {
+                    "label": "Nedojíždí do práce",
+                    "percent": 7.456140350877193,
+                    "percent_avg": 4.274004683840749
+                },
+                {
+                    "label": "Administrativa, HR",
+                    "percent": 4.385964912280701,
+                    "percent_avg": 3.600702576112412
+                },
+                {
+                    "label": "Do práce na kole",
+                    "percent": 3.9473684210526314,
+                    "percent_avg": 3.8056206088992974
+                },
+                {
+                    "label": "Studenti (nepracující)",
+                    "percent": 3.9473684210526314,
+                    "percent_avg": 5.679156908665106
+                },
+                {
+                    "label": "Studenti (včetně pracujících)",
+                    "percent": 3.9473684210526314,
+                    "percent_avg": 5.679156908665106
+                },
+                {
+                    "label": "Nezaměstnaní",
+                    "percent": 3.508771929824561,
+                    "percent_avg": 4.888758782201405
+                },
+                {
+                    "label": "Dojíždí dlouho do práce",
+                    "percent": 2.631578947368421,
+                    "percent_avg": 2.576112412177986
+                },
+                {
+                    "label": "Na mateřské dovolené",
+                    "percent": 1.7543859649122806,
+                    "percent_avg": 4.742388758782202
+                },
+                {
+                    "label": "Zdravotnictví a farmacie",
+                    "percent": 1.7543859649122806,
+                    "percent_avg": 3.51288056206089
+                },
+                {
+                    "label": "Gastronomie a cestovní ruch",
+                    "percent": 1.3157894736842104,
+                    "percent_avg": 1.8442622950819672
+                },
+                {
+                    "label": "Pracují v neziskovce",
+                    "percent": 1.3157894736842104,
+                    "percent_avg": 2.3126463700234194
+                },
+                {
+                    "label": "Právo",
+                    "percent": 0.0,
+                    "percent_avg": 0.936768149882904
+                }
+            ]
+        },
+        {
+            "label": "Orientace a názory",
+            "items": [
+                {
+                    "label": "Volili do PS 2017",
+                    "percent": 82.89473684210526,
+                    "percent_avg": 70.22833723653396
+                },
+                {
+                    "label": "Zastánci eutanazie",
+                    "percent": 82.45614035087719,
+                    "percent_avg": 84.68969555035129
+                },
+                {
+                    "label": "Nedarují krev, ale schvalují to",
+                    "percent": 78.0701754385965,
+                    "percent_avg": 80.79625292740047
+                },
+                {
+                    "label": "Raději vlastní bydlení na okraji města",
+                    "percent": 78.0701754385965,
+                    "percent_avg": 88.49531615925058
+                },
+                {
+                    "label": "Znásilnění není vinou ženy",
+                    "percent": 77.19298245614034,
+                    "percent_avg": 78.57142857142857
+                },
+                {
+                    "label": "Nepřesvědčují přátele, aby volili stejně",
+                    "percent": 76.31578947368422,
+                    "percent_avg": 86.56323185011709
+                },
+                {
+                    "label": "Auto je pro ně jen prostředek",
+                    "percent": 75.87719298245614,
+                    "percent_avg": 85.48009367681499
+                },
+                {
+                    "label": "Dávají peníze na charitu",
+                    "percent": 75.87719298245614,
+                    "percent_avg": 64.5784543325527
+                },
+                {
+                    "label": "Důraz na domácí politiku",
+                    "percent": 75.43859649122807,
+                    "percent_avg": 77.89812646370024
+                },
+                {
+                    "label": "Čínská medicína jako doplněk",
+                    "percent": 75.0,
+                    "percent_avg": 72.86299765807962
+                },
+                {
+                    "label": "Dítě ať studuje, co ho baví",
+                    "percent": 75.0,
+                    "percent_avg": 81.14754098360656
+                },
+                {
+                    "label": "O domácnost mají pečovat oba",
+                    "percent": 73.68421052631578,
+                    "percent_avg": 72.42388758782201
+                },
+                {
+                    "label": "Spokojeni s životem",
+                    "percent": 73.24561403508771,
+                    "percent_avg": 65.69086651053864
+                },
+                {
+                    "label": "Mohou přispět k řešení problémů své obce",
+                    "percent": 72.36842105263158,
+                    "percent_avg": 56.76229508196722
+                },
+                {
+                    "label": "Povídají si o dění v obci",
+                    "percent": 71.49122807017544,
+                    "percent_avg": 62.119437939110064
+                },
+                {
+                    "label": "Spokojeni se vztahy",
+                    "percent": 70.17543859649122,
+                    "percent_avg": 67.35948477751757
+                },
+                {
+                    "label": "Násilí jen v sebeobraně",
+                    "percent": 70.17543859649122,
+                    "percent_avg": 76.46370023419203
+                },
+                {
+                    "label": "Souhlasí s fyzickým trestáním",
+                    "percent": 69.2982456140351,
+                    "percent_avg": 65.42740046838408
+                },
+                {
+                    "label": "Mluví o politice",
+                    "percent": 68.85964912280701,
+                    "percent_avg": 52.2248243559719
+                },
+                {
+                    "label": "Pro kamery v ulicích",
+                    "percent": 67.54385964912281,
+                    "percent_avg": 72.65807962529274
+                },
+                {
+                    "label": "Děti nemusí být naplněním života ženy",
+                    "percent": 67.10526315789474,
+                    "percent_avg": 67.27166276346604
+                },
+                {
+                    "label": "Nebyli déle v zahraničí",
+                    "percent": 67.10526315789474,
+                    "percent_avg": 82.37704918032787
+                },
+                {
+                    "label": "Očkování může ublížit, ale je potřebné",
+                    "percent": 66.66666666666666,
+                    "percent_avg": 70.34543325526931
+                },
+                {
+                    "label": "Bezdomovectví kvůli okolnostem",
+                    "percent": 66.22807017543859,
+                    "percent_avg": 62.031615925058546
+                },
+                {
+                    "label": "Mohou přispět k řešení problémů této země",
+                    "percent": 64.47368421052632,
+                    "percent_avg": 47.98009367681499
+                },
+                {
+                    "label": "Rozdělení domácích prací podle domluvy",
+                    "percent": 64.47368421052632,
+                    "percent_avg": 68.61826697892272
+                },
+                {
+                    "label": "Cizinci se mají zcela přizpůsobit",
+                    "percent": 64.03508771929825,
+                    "percent_avg": 70.34543325526931
+                },
+                {
+                    "label": "Živitelem rodiny má být muž nebo žena podle domluvy",
+                    "percent": 58.333333333333336,
+                    "percent_avg": 59.74824355971897
+                },
+                {
+                    "label": "Plat je víc než smysl v práci",
+                    "percent": 58.333333333333336,
+                    "percent_avg": 55.44496487119438
+                },
+                {
+                    "label": "Cítí se bezpečně",
+                    "percent": 58.333333333333336,
+                    "percent_avg": 48.331381733021075
+                },
+                {
+                    "label": "Lidem v ČR se žije dobře",
+                    "percent": 56.57894736842105,
+                    "percent_avg": 47.804449648711945
+                },
+                {
+                    "label": "Spokojeni s financemi",
+                    "percent": 56.57894736842105,
+                    "percent_avg": 47.540983606557376
+                },
+                {
+                    "label": "Spokojeni s prací",
+                    "percent": 55.26315789473685,
+                    "percent_avg": 52.195550351288055
+                },
+                {
+                    "label": "Stres je horší než rutina",
+                    "percent": 54.385964912280706,
+                    "percent_avg": 59.338407494145194
+                },
+                {
+                    "label": "Nemohou přispět k řešení problémů světa",
+                    "percent": 53.94736842105263,
+                    "percent_avg": 64.31498829039812
+                },
+                {
+                    "label": "V práci nechtějí výzvy",
+                    "percent": 53.50877192982456,
+                    "percent_avg": 60.36299765807962
+                },
+                {
+                    "label": "Teď je lépe než před revolucí",
+                    "percent": 47.368421052631575,
+                    "percent_avg": 35.94847775175644
+                },
+                {
+                    "label": "Tolerance homosexuality, ale bez možnosti adopce dětí",
+                    "percent": 46.92982456140351,
+                    "percent_avg": 46.25292740046839
+                },
+                {
+                    "label": "V práci chtějí výzvy",
+                    "percent": 46.49122807017544,
+                    "percent_avg": 39.63700234192037
+                },
+                {
+                    "label": "Homosexuální páry mají mít možnost adopce dětí",
+                    "percent": 46.05263157894737,
+                    "percent_avg": 47.16042154566745
+                },
+                {
+                    "label": "Rutina je horší než stres",
+                    "percent": 45.614035087719294,
+                    "percent_avg": 40.6615925058548
+                },
+                {
+                    "label": "Nedá se říct, jestli bylo lépe před revolucí, nebo je lépe teď",
+                    "percent": 45.17543859649123,
+                    "percent_avg": 48.24355971896955
+                },
+                {
+                    "label": "Mohou přispět k řešení problémů světa",
+                    "percent": 44.29824561403509,
+                    "percent_avg": 32.99180327868852
+                },
+                {
+                    "label": "Smysl v práci je víc než plat",
+                    "percent": 41.66666666666667,
+                    "percent_avg": 44.55503512880562
+                },
+                {
+                    "label": "Živitelem rodiny má být muž",
+                    "percent": 38.15789473684211,
+                    "percent_avg": 38.758782201405154
+                },
+                {
+                    "label": "Rozdělení na „ženské“ a „mužské“ domácí práce",
+                    "percent": 35.08771929824561,
+                    "percent_avg": 30.82552693208431
+                },
+                {
+                    "label": "Nemohou přispět k řešení problémů této země",
+                    "percent": 34.21052631578947,
+                    "percent_avg": 49.50234192037471
+                },
+                {
+                    "label": "Chtějí stavět energeticky šetrně",
+                    "percent": 33.771929824561404,
+                    "percent_avg": 24.18032786885246
+                },
+                {
+                    "label": "Děti naplněním života ženy",
+                    "percent": 32.89473684210527,
+                    "percent_avg": 32.72833723653395
+                },
+                {
+                    "label": "Bezdomovectví vlastní vinou",
+                    "percent": 32.45614035087719,
+                    "percent_avg": 35.304449648711945
+                },
+                {
+                    "label": "Mají štěstí",
+                    "percent": 32.45614035087719,
+                    "percent_avg": 31.762295081967213
+                },
+                {
+                    "label": "Byli déle v zahraničí",
+                    "percent": 32.01754385964912,
+                    "percent_avg": 17.271662763466043
+                },
+                {
+                    "label": "Proti kamerám v ulicích",
+                    "percent": 31.57894736842105,
+                    "percent_avg": 24.32669789227166
+                },
+                {
+                    "label": "Nemluví o politice",
+                    "percent": 31.140350877192986,
+                    "percent_avg": 47.7751756440281
+                },
+                {
+                    "label": "Lidem v ČR se žije špatně",
+                    "percent": 29.385964912280706,
+                    "percent_avg": 31.528103044496486
+                },
+                {
+                    "label": "Cizinci se mají částečně přizpůsobit",
+                    "percent": 28.947368421052634,
+                    "percent_avg": 25.644028103044498
+                },
+                {
+                    "label": "Nesouhlasí s fyzickým trestáním",
+                    "percent": 28.947368421052634,
+                    "percent_avg": 31.937939110070257
+                },
+                {
+                    "label": "Necítí se bezpečně",
+                    "percent": 28.947368421052634,
+                    "percent_avg": 32.31850117096019
+                },
+                {
+                    "label": "Nepovídají si o dění v obci",
+                    "percent": 28.50877192982456,
+                    "percent_avg": 37.85128805620609
+                },
+                {
+                    "label": "Násilí nejen v sebeobraně",
+                    "percent": 28.50877192982456,
+                    "percent_avg": 21.662763466042154
+                },
+                {
+                    "label": "Nemohou přispět k řešení problémů své obce",
+                    "percent": 27.192982456140353,
+                    "percent_avg": 40.42740046838407
+                },
+                {
+                    "label": "Nespokojeni s financemi",
+                    "percent": 25.438596491228072,
+                    "percent_avg": 31.498829039812648
+                },
+                {
+                    "label": "Dítě ať studuje, co ho uživí",
+                    "percent": 24.561403508771928,
+                    "percent_avg": 17.330210772833723
+                },
+                {
+                    "label": "Auto je pro ně image",
+                    "percent": 23.684210526315788,
+                    "percent_avg": 13.495316159250587
+                },
+                {
+                    "label": "Důraz na mezinárodní politiku",
+                    "percent": 23.684210526315788,
+                    "percent_avg": 19.496487119437937
+                },
+                {
+                    "label": "Přesvědčují přátele, aby volili stejně",
+                    "percent": 23.684210526315788,
+                    "percent_avg": 13.407494145199065
+                },
+                {
+                    "label": "Za znásilnění si může žena sama",
+                    "percent": 22.36842105263158,
+                    "percent_avg": 19.730679156908664
+                },
+                {
+                    "label": "Očkování dětí je neškodné",
+                    "percent": 22.36842105263158,
+                    "percent_avg": 21.01873536299766
+                },
+                {
+                    "label": "O domácnost má pečovat žena",
+                    "percent": 21.49122807017544,
+                    "percent_avg": 24.531615925058546
+                },
+                {
+                    "label": "Raději v nájmu v centru města",
+                    "percent": 21.49122807017544,
+                    "percent_avg": 11.32903981264637
+                },
+                {
+                    "label": "Odpůrci eutanazie",
+                    "percent": 16.228070175438596,
+                    "percent_avg": 12.968384074941453
+                },
+                {
+                    "label": "Nedávají peníze na charitu",
+                    "percent": 16.228070175438596,
+                    "percent_avg": 21.750585480093676
+                },
+                {
+                    "label": "Nespokojeni se vztahy",
+                    "percent": 15.789473684210526,
+                    "percent_avg": 17.681498829039814
+                },
+                {
+                    "label": "Nevěří čínské medicíně",
+                    "percent": 13.157894736842104,
+                    "percent_avg": 14.256440281030445
+                },
+                {
+                    "label": "Nespokojeni s životem",
+                    "percent": 12.719298245614036,
+                    "percent_avg": 15.398126463700235
+                },
+                {
+                    "label": "Studovali v zahraničí",
+                    "percent": 11.403508771929824,
+                    "percent_avg": 4.683840749414521
+                },
+                {
+                    "label": "Nespokojeni s prací",
+                    "percent": 11.403508771929824,
+                    "percent_avg": 8.752927400468383
+                },
+                {
+                    "label": "Čínská medicína jako primární léčba",
+                    "percent": 10.526315789473683,
+                    "percent_avg": 11.475409836065573
+                },
+                {
+                    "label": "Mají smůlu",
+                    "percent": 10.526315789473683,
+                    "percent_avg": 9.279859484777518
+                },
+                {
+                    "label": "Odmítají očkování dětí",
+                    "percent": 9.649122807017543,
+                    "percent_avg": 7.347775175644028
+                },
+                {
+                    "label": "Před revolucí bylo lépe",
+                    "percent": 7.017543859649122,
+                    "percent_avg": 14.549180327868852
+                },
+                {
+                    "label": "Cizinci se nemusí přizpůsobit",
+                    "percent": 6.140350877192982,
+                    "percent_avg": 3.1030444964871196
+                },
+                {
+                    "label": "Netolerují homosexualitu",
+                    "percent": 5.701754385964912,
+                    "percent_avg": 4.039812646370024
+                },
+                {
+                    "label": "O domácnost má pečovat muž",
+                    "percent": 4.824561403508771,
+                    "percent_avg": 2.576112412177986
+                },
+                {
+                    "label": "Nedarují krev a neschvalují to",
+                    "percent": 3.508771929824561,
+                    "percent_avg": 2.576112412177986
+                },
+                {
+                    "label": "Živitelem rodiny má být žena",
+                    "percent": 3.508771929824561,
+                    "percent_avg": 1.0831381733021077
+                },
+                {
+                    "label": "Dětství v zahraničí",
+                    "percent": 2.1929824561403506,
+                    "percent_avg": 1.2295081967213115
+                }
+            ]
+        },
+        {
+            "label": "Koho volili do sněmovny",
+            "items": [
+                {
+                    "label": "2017 volili ANO 2011",
+                    "percent": 16.228070175438596,
+                    "percent_avg": 17.681498829039814
+                },
+                {
+                    "label": "2017 volili ODS",
+                    "percent": 11.403508771929824,
+                    "percent_avg": 7.230679156908665
+                },
+                {
+                    "label": "2017 volili Piráty",
+                    "percent": 11.842105263157894,
+                    "percent_avg": 7.757611241217798
+                },
+                {
+                    "label": "2017 volili SPD",
+                    "percent": 7.456140350877193,
+                    "percent_avg": 6.7037470725995325
+                },
+                {
+                    "label": "2017 volili ČSSD",
+                    "percent": 3.070175438596491,
+                    "percent_avg": 3.161592505854801
+                },
+                {
+                    "label": "2017 volili KDU-ČSL",
+                    "percent": 3.070175438596491,
+                    "percent_avg": 2.2540983606557377
+                },
+                {
+                    "label": "2017 volili KSČM",
+                    "percent": 2.1929824561403506,
+                    "percent_avg": 1.5222482435597189
+                },
+                {
+                    "label": "2017 volili Starosty a nezávislé",
+                    "percent": 3.070175438596491,
+                    "percent_avg": 2.693208430913349
+                },
+                {
+                    "label": "2017 volili TOP09",
+                    "percent": 3.9473684210526314,
+                    "percent_avg": 2.5468384074941453
+                },
+                {
+                    "label": "2017 volili stranu, která se nedostala do PS ČR",
+                    "percent": 5.701754385964912,
+                    "percent_avg": 2.839578454332553
+                },
+                {
+                    "label": "Neví, jestli a koho volili",
+                    "percent": 10.087719298245613,
+                    "percent_avg": 12.851288056206089
+                },
+                {
+                    "label": "Nevolili do PS 2017",
+                    "percent": 17.105263157894736,
+                    "percent_avg": 29.566744730679158
+                }
+            ]
+        },
+        {
+            "label": "Světonázor",
+            "items": [
+                {
+                    "label": "Existuje Bůh",
+                    "percent": 14.912280701754385,
+                    "percent_avg": 13.846604215456674
+                },
+                {
+                    "label": "Existují vyšší bytosti",
+                    "percent": 10.087719298245613,
+                    "percent_avg": 5.620608899297424
+                },
+                {
+                    "label": "Něco nad námi je",
+                    "percent": 40.35087719298245,
+                    "percent_avg": 40.22248243559719
+                },
+                {
+                    "label": "Nedá se říct, jestli nad námi něco je",
+                    "percent": 20.614035087719298,
+                    "percent_avg": 21.07728337236534
+                },
+                {
+                    "label": "\"Nad námi\" nic není",
+                    "percent": 13.596491228070176,
+                    "percent_avg": 16.920374707259953
+                }
+            ]
+        },
+        {
+            "label": "Dovolená",
+            "items": [
+                {
+                    "label": "Dovolená pokaždé jinam",
+                    "percent": 65.78947368421053,
+                    "percent_avg": 55.88407494145199
+                },
+                {
+                    "label": "Nebojí se terorismu",
+                    "percent": 60.96491228070175,
+                    "percent_avg": 48.47775175644028
+                },
+                {
+                    "label": "Středně drahá dovolená",
+                    "percent": 53.94736842105263,
+                    "percent_avg": 36.94379391100703
+                },
+                {
+                    "label": "Dovolená mimo turistické oblasti",
+                    "percent": 53.94736842105263,
+                    "percent_avg": 44.759953161592506
+                },
+                {
+                    "label": "Dovolená u moře",
+                    "percent": 46.92982456140351,
+                    "percent_avg": 36.27049180327869
+                },
+                {
+                    "label": "Dovolená na vlastní pěst",
+                    "percent": 43.42105263157895,
+                    "percent_avg": 27.5175644028103
+                },
+                {
+                    "label": "Nejezdí na dovolenou mimo Evropu",
+                    "percent": 40.78947368421053,
+                    "percent_avg": 32.81615925058548
+                },
+                {
+                    "label": "Bojí se terorismu",
+                    "percent": 38.59649122807017,
+                    "percent_avg": 51.434426229508205
+                },
+                {
+                    "label": "Dovolená 2x ročně",
+                    "percent": 37.719298245614034,
+                    "percent_avg": 27.137002341920375
+                },
+                {
+                    "label": "Dovolená v turistické oblasti",
+                    "percent": 35.96491228070175,
+                    "percent_avg": 33.460187353629976
+                },
+                {
+                    "label": "Turistika v zahraničí",
+                    "percent": 35.08771929824561,
+                    "percent_avg": 18.32552693208431
+                },
+                {
+                    "label": "Dovolená 1x ročně",
+                    "percent": 30.701754385964914,
+                    "percent_avg": 37.558548009367684
+                },
+                {
+                    "label": "Na dovolenou létají",
+                    "percent": 30.263157894736842,
+                    "percent_avg": 21.54566744730679
+                },
+                {
+                    "label": "Jezdí na dovolenou mimo Evropu",
+                    "percent": 28.07017543859649,
+                    "percent_avg": 18.091334894613585
+                },
+                {
+                    "label": "Na dovolenou do zahraničí autem",
+                    "percent": 25.0,
+                    "percent_avg": 21.252927400468383
+                },
+                {
+                    "label": "Levná dovolená",
+                    "percent": 25.0,
+                    "percent_avg": 35.94847775175644
+                },
+                {
+                    "label": "Dovolená pokaždé stejně",
+                    "percent": 23.684210526315788,
+                    "percent_avg": 22.18969555035129
+                },
+                {
+                    "label": "Dovolená s cestovkou",
+                    "percent": 22.36842105263158,
+                    "percent_avg": 19.672131147540984
+                },
+                {
+                    "label": "Poznávací zájezd",
+                    "percent": 22.36842105263158,
+                    "percent_avg": 10.860655737704917
+                },
+                {
+                    "label": "Dovolená 3x ročně a víc",
+                    "percent": 21.49122807017544,
+                    "percent_avg": 13.466042154566745
+                },
+                {
+                    "label": "Sportovní pobyt v zahraničí",
+                    "percent": 12.719298245614036,
+                    "percent_avg": 7.172131147540983
+                },
+                {
+                    "label": "Velmi drahá dovolená",
+                    "percent": 10.964912280701753,
+                    "percent_avg": 5.327868852459016
+                },
+                {
+                    "label": "Dlouhá dovolená v zahraničí",
+                    "percent": 10.526315789473683,
+                    "percent_avg": 3.600702576112412
+                },
+                {
+                    "label": "Nejezdí na dovolenou",
+                    "percent": 10.087719298245613,
+                    "percent_avg": 21.779859484777518
+                },
+                {
+                    "label": "Na lyžích v zahraničí",
+                    "percent": 8.333333333333332,
+                    "percent_avg": 4.918032786885246
+                },
+                {
+                    "label": "Na dovolenou do zahraničí autobusem",
+                    "percent": 7.894736842105263,
+                    "percent_avg": 5.679156908665106
+                },
+                {
+                    "label": "Expedice v zahraničí",
+                    "percent": 6.140350877192982,
+                    "percent_avg": 2.839578454332553
+                },
+                {
+                    "label": "Na dovolenou do zahraničí vlakem",
+                    "percent": 5.701754385964912,
+                    "percent_avg": 2.1955503512880563
+                },
+                {
+                    "label": "Fitness pobyt v zahraničí",
+                    "percent": 4.385964912280701,
+                    "percent_avg": 1.2002341920374706
+                },
+                {
+                    "label": "Dovolená ve skupině",
+                    "percent": 3.070175438596491,
+                    "percent_avg": 3.717798594847775
+                }
+            ]
+        },
+        {
+            "label": "Životní styl a volný čas",
+            "items": [
+                {
+                    "label": "Procházky",
+                    "percent": 94.2982456140351,
+                    "percent_avg": 88.75878220140515
+                },
+                {
+                    "label": "Příroda",
+                    "percent": 84.64912280701753,
+                    "percent_avg": 76.84426229508196
+                },
+                {
+                    "label": "Mluví anglicky",
+                    "percent": 83.77192982456141,
+                    "percent_avg": 69.87704918032787
+                },
+                {
+                    "label": "Řidičák na auto",
+                    "percent": 82.01754385964912,
+                    "percent_avg": 80.70843091334895
+                },
+                {
+                    "label": "Ve volnu nevědí co dřív",
+                    "percent": 75.87719298245614,
+                    "percent_avg": 77.78103044496487
+                },
+                {
+                    "label": "Klasické divadelní představení",
+                    "percent": 73.68421052631578,
+                    "percent_avg": 62.119437939110064
+                },
+                {
+                    "label": "Chodí do fastfoodů",
+                    "percent": 73.24561403508771,
+                    "percent_avg": 50.380562060889936
+                },
+                {
+                    "label": "Pijí pivo",
+                    "percent": 70.17543859649122,
+                    "percent_avg": 56.23536299765808
+                },
+                {
+                    "label": "Čtenáři",
+                    "percent": 69.2982456140351,
+                    "percent_avg": 53.33723653395784
+                },
+                {
+                    "label": "Mají přátele mezi cizinci v ČR",
+                    "percent": 66.66666666666666,
+                    "percent_avg": 50.96604215456675
+                },
+                {
+                    "label": "Domácí zvíře",
+                    "percent": 66.66666666666666,
+                    "percent_avg": 68.61826697892272
+                },
+                {
+                    "label": "Nákupní centrum",
+                    "percent": 65.78947368421053,
+                    "percent_avg": 53.54215456674473
+                },
+                {
+                    "label": "Kavárny, cukrárny",
+                    "percent": 64.47368421052632,
+                    "percent_avg": 52.2248243559719
+                },
+                {
+                    "label": "Sportují pravidelně",
+                    "percent": 61.40350877192983,
+                    "percent_avg": 51.05386416861827
+                },
+                {
+                    "label": "Muzikál",
+                    "percent": 61.40350877192983,
+                    "percent_avg": 60.7728337236534
+                },
+                {
+                    "label": "Emailové newslettery",
+                    "percent": 60.96491228070175,
+                    "percent_avg": 53.951990632318505
+                },
+                {
+                    "label": "Povídají si se sousedy",
+                    "percent": 60.96491228070175,
+                    "percent_avg": 54.30327868852459
+                },
+                {
+                    "label": "Čtou horoskopy, ale nevěří jim",
+                    "percent": 60.526315789473685,
+                    "percent_avg": 59.45550351288056
+                },
+                {
+                    "label": "Příspěvky na sociálních sítích",
+                    "percent": 58.77192982456141,
+                    "percent_avg": 51.31733021077284
+                },
+                {
+                    "label": "Plán na víkend",
+                    "percent": 58.77192982456141,
+                    "percent_avg": 54.7423887587822
+                },
+                {
+                    "label": "Jí zdravě",
+                    "percent": 57.89473684210527,
+                    "percent_avg": 45.11124121779859
+                },
+                {
+                    "label": "Kutilové",
+                    "percent": 57.89473684210527,
+                    "percent_avg": 46.39929742388759
+                },
+                {
+                    "label": "Výlety po ČR",
+                    "percent": 57.45614035087719,
+                    "percent_avg": 45.46252927400468
+                },
+                {
+                    "label": "Netráví volný čas s kolegy",
+                    "percent": 57.01754385964912,
+                    "percent_avg": 63.64168618266979
+                },
+                {
+                    "label": "Večeře v restauraci",
+                    "percent": 54.824561403508774,
+                    "percent_avg": 37.88056206088993
+                },
+                {
+                    "label": "Hraní s dětmi",
+                    "percent": 53.50877192982456,
+                    "percent_avg": 52.371194379391106
+                },
+                {
+                    "label": "Rychlé rozhodování není problém",
+                    "percent": 52.63157894736842,
+                    "percent_avg": 45.60889929742389
+                },
+                {
+                    "label": "Nekuřáci",
+                    "percent": 52.19298245614035,
+                    "percent_avg": 55.35714285714286
+                },
+                {
+                    "label": "PC hráči",
+                    "percent": 51.31578947368421,
+                    "percent_avg": 44.67213114754098
+                },
+                {
+                    "label": "Křížovky, sudoku",
+                    "percent": 50.0,
+                    "percent_avg": 38.495316159250585
+                },
+                {
+                    "label": "Na víno ven",
+                    "percent": 49.56140350877193,
+                    "percent_avg": 32.20140515222483
+                },
+                {
+                    "label": "Na pivo do hospody",
+                    "percent": 49.122807017543856,
+                    "percent_avg": 36.82669789227167
+                },
+                {
+                    "label": "Párty",
+                    "percent": 48.68421052631579,
+                    "percent_avg": 40.603044496487115
+                },
+                {
+                    "label": "Chodí na trh",
+                    "percent": 48.68421052631579,
+                    "percent_avg": 31.088992974238877
+                },
+                {
+                    "label": "Nový cirkus",
+                    "percent": 48.68421052631579,
+                    "percent_avg": 33.10889929742389
+                },
+                {
+                    "label": "Chataři",
+                    "percent": 47.80701754385965,
+                    "percent_avg": 31.26463700234192
+                },
+                {
+                    "label": "Rychlé rozhodování je nepříjemné",
+                    "percent": 47.368421052631575,
+                    "percent_avg": 54.39110070257611
+                },
+                {
+                    "label": "Pasivní fandové",
+                    "percent": 46.92982456140351,
+                    "percent_avg": 38.46604215456674
+                },
+                {
+                    "label": "Používají hodně mobilních aplikací",
+                    "percent": 46.92982456140351,
+                    "percent_avg": 32.20140515222483
+                },
+                {
+                    "label": "Česká kuchyně",
+                    "percent": 46.49122807017544,
+                    "percent_avg": 48.94613583138173
+                },
+                {
+                    "label": "DAMU",
+                    "percent": 45.17543859649123,
+                    "percent_avg": 31.791569086651055
+                },
+                {
+                    "label": "Mluví německy",
+                    "percent": 44.73684210526316,
+                    "percent_avg": 36.8559718969555
+                },
+                {
+                    "label": "S příbuznými se vídají týdně",
+                    "percent": 44.29824561403509,
+                    "percent_avg": 49.385245901639344
+                },
+                {
+                    "label": "Hrají často na mobilu",
+                    "percent": 43.859649122807014,
+                    "percent_avg": 39.959016393442624
+                },
+                {
+                    "label": "Neřeší, jak se stravují",
+                    "percent": 42.10526315789473,
+                    "percent_avg": 54.88875878220141
+                },
+                {
+                    "label": "Řetězové emaily",
+                    "percent": 41.66666666666667,
+                    "percent_avg": 25.76112412177986
+                },
+                {
+                    "label": "Mluví rusky",
+                    "percent": 41.228070175438596,
+                    "percent_avg": 36.504683840749415
+                },
+                {
+                    "label": "Bez plánů na víkend",
+                    "percent": 41.228070175438596,
+                    "percent_avg": 45.16978922716628
+                },
+                {
+                    "label": "Mají zahradu",
+                    "percent": 40.78947368421053,
+                    "percent_avg": 44.086651053864166
+                },
+                {
+                    "label": "Víkendy doma",
+                    "percent": 40.78947368421053,
+                    "percent_avg": 51.288056206088996
+                },
+                {
+                    "label": "Řidičák - motorka",
+                    "percent": 40.35087719298245,
+                    "percent_avg": 31.967213114754102
+                },
+                {
+                    "label": "Pes",
+                    "percent": 39.473684210526315,
+                    "percent_avg": 43.06206088992974
+                },
+                {
+                    "label": "Wellness",
+                    "percent": 37.280701754385966,
+                    "percent_avg": 21.311475409836063
+                },
+                {
+                    "label": "Mají lidi kolem, kteří pomohou",
+                    "percent": 37.280701754385966,
+                    "percent_avg": 42.30093676814988
+                },
+                {
+                    "label": "Sází",
+                    "percent": 35.08771929824561,
+                    "percent_avg": 19.52576112412178
+                },
+                {
+                    "label": "Tráví volný čas s kolegy",
+                    "percent": 34.64912280701755,
+                    "percent_avg": 21.340749414519905
+                },
+                {
+                    "label": "Losy",
+                    "percent": 34.64912280701755,
+                    "percent_avg": 31.059718969555032
+                },
+                {
+                    "label": "Nemají přátele mezi cizinci v ČR",
+                    "percent": 33.33333333333333,
+                    "percent_avg": 49.03395784543326
+                },
+                {
+                    "label": "Víkendy pokaždé jinde",
+                    "percent": 33.33333333333333,
+                    "percent_avg": 28.805620608899297
+                },
+                {
+                    "label": "Dětské hřiště",
+                    "percent": 32.01754385964912,
+                    "percent_avg": 26.727166276346605
+                },
+                {
+                    "label": "Hrají PC/video hry",
+                    "percent": 30.701754385964914,
+                    "percent_avg": 24.18032786885246
+                },
+                {
+                    "label": "S příbuznými se vídají měsíčně",
+                    "percent": 30.263157894736842,
+                    "percent_avg": 29.449648711943794
+                },
+                {
+                    "label": "Pletení, šití",
+                    "percent": 30.263157894736842,
+                    "percent_avg": 28.425058548009368
+                },
+                {
+                    "label": "Nepijí pivo",
+                    "percent": 29.82456140350877,
+                    "percent_avg": 43.76463700234192
+                },
+                {
+                    "label": "Umělci",
+                    "percent": 29.82456140350877,
+                    "percent_avg": 25.40983606557377
+                },
+                {
+                    "label": "Volný čas tráví u TV",
+                    "percent": 28.947368421052634,
+                    "percent_avg": 30.82552693208431
+                },
+                {
+                    "label": "Posezení a grilování se sousedy",
+                    "percent": 28.947368421052634,
+                    "percent_avg": 24.121779859484775
+                },
+                {
+                    "label": "Sledují youtubery",
+                    "percent": 28.947368421052634,
+                    "percent_avg": 19.17447306791569
+                },
+                {
+                    "label": "Kouří příležitostně",
+                    "percent": 28.50877192982456,
+                    "percent_avg": 19.701405152224822
+                },
+                {
+                    "label": "Muzeum",
+                    "percent": 28.07017543859649,
+                    "percent_avg": 13.144028103044498
+                },
+                {
+                    "label": "Jsou aktivní ve své obci",
+                    "percent": 27.631578947368425,
+                    "percent_avg": 15.690866510538642
+                },
+                {
+                    "label": "Kočka",
+                    "percent": 27.192982456140353,
+                    "percent_avg": 28.425058548009368
+                },
+                {
+                    "label": "Nechodí do fastfoodů",
+                    "percent": 26.75438596491228,
+                    "percent_avg": 49.61943793911007
+                },
+                {
+                    "label": "Vzdělávací akce",
+                    "percent": 26.75438596491228,
+                    "percent_avg": 12.002341920374707
+                },
+                {
+                    "label": "Nic se sousedy",
+                    "percent": 26.75438596491228,
+                    "percent_avg": 33.25526932084309
+                },
+                {
+                    "label": "Nečtou horoskopy",
+                    "percent": 26.31578947368421,
+                    "percent_avg": 27.751756440281028
+                },
+                {
+                    "label": "Sportují zřídka",
+                    "percent": 26.31578947368421,
+                    "percent_avg": 25.117096018735364
+                },
+                {
+                    "label": "Umí anglicky docela dobře",
+                    "percent": 24.561403508771928,
+                    "percent_avg": 16.21779859484778
+                },
+                {
+                    "label": "Ve volnu nemají co dělat",
+                    "percent": 24.12280701754386,
+                    "percent_avg": 22.160421545667447
+                },
+                {
+                    "label": "Mají chatu",
+                    "percent": 24.12280701754386,
+                    "percent_avg": 15.398126463700235
+                },
+                {
+                    "label": "Koncert",
+                    "percent": 23.684210526315788,
+                    "percent_avg": 13.26112412177986
+                },
+                {
+                    "label": "Aktivně řeší problémy ČR",
+                    "percent": 22.807017543859647,
+                    "percent_avg": 16.627634660421545
+                },
+                {
+                    "label": "Divadlo",
+                    "percent": 21.052631578947366,
+                    "percent_avg": 8.22599531615925
+                },
+                {
+                    "label": "Narozeniny slaví se sousedy",
+                    "percent": 20.175438596491226,
+                    "percent_avg": 13.202576112412178
+                },
+                {
+                    "label": "Mají čtečku knih",
+                    "percent": 19.736842105263158,
+                    "percent_avg": 10.860655737704917
+                },
+                {
+                    "label": "Aktivně řeší problémy světa",
+                    "percent": 19.298245614035086,
+                    "percent_avg": 13.436768149882905
+                },
+                {
+                    "label": "Kouří hodně",
+                    "percent": 18.859649122807017,
+                    "percent_avg": 24.67798594847775
+                },
+                {
+                    "label": "Hudební klub",
+                    "percent": 18.421052631578945,
+                    "percent_avg": 8.752927400468383
+                },
+                {
+                    "label": "S příbuznými se vídají párkrát do roka",
+                    "percent": 17.982456140350877,
+                    "percent_avg": 16.247072599531617
+                },
+                {
+                    "label": "Nízkosacharidová strava",
+                    "percent": 17.105263157894736,
+                    "percent_avg": 10.919203747072599
+                },
+                {
+                    "label": "Mají jinou nemovitost",
+                    "percent": 16.666666666666664,
+                    "percent_avg": 13.495316159250587
+                },
+                {
+                    "label": "Bez řidičáku",
+                    "percent": 16.228070175438596,
+                    "percent_avg": 17.94496487119438
+                },
+                {
+                    "label": "Nemluví anglicky",
+                    "percent": 16.228070175438596,
+                    "percent_avg": 30.093676814988292
+                },
+                {
+                    "label": "Mluví anglicky plynně",
+                    "percent": 15.350877192982457,
+                    "percent_avg": 7.552693208430913
+                },
+                {
+                    "label": "Nejí maso",
+                    "percent": 12.280701754385964,
+                    "percent_avg": 5.708430913348947
+                },
+                {
+                    "label": "Čtou horoskopy a věří jim",
+                    "percent": 12.280701754385964,
+                    "percent_avg": 12.060889929742387
+                },
+                {
+                    "label": "Nesportují",
+                    "percent": 12.280701754385964,
+                    "percent_avg": 23.770491803278688
+                },
+                {
+                    "label": "Sousedské slavnosti",
+                    "percent": 11.842105263157894,
+                    "percent_avg": 10.158079625292741
+                },
+                {
+                    "label": "Nemají o koho se opřít",
+                    "percent": 11.842105263157894,
+                    "percent_avg": 9.718969555035128
+                },
+                {
+                    "label": "Aktivní fandové",
+                    "percent": 11.403508771929824,
+                    "percent_avg": 6.996487119437939
+                },
+                {
+                    "label": "Vegetariáni",
+                    "percent": 10.964912280701753,
+                    "percent_avg": 4.742388758782202
+                },
+                {
+                    "label": "Mluví francouzsky",
+                    "percent": 9.649122807017543,
+                    "percent_avg": 4.274004683840749
+                },
+                {
+                    "label": "Mluví španělsky",
+                    "percent": 9.210526315789473,
+                    "percent_avg": 4.683840749414521
+                },
+                {
+                    "label": "Bezlepková strava",
+                    "percent": 7.456140350877193,
+                    "percent_avg": 3.2201405152224827
+                },
+                {
+                    "label": "Nepoužívají internet v mobilu",
+                    "percent": 7.017543859649122,
+                    "percent_avg": 9.01639344262295
+                },
+                {
+                    "label": "Mluví italsky",
+                    "percent": 6.140350877192982,
+                    "percent_avg": 2.9859484777517564
+                },
+                {
+                    "label": "Balí si cigarety",
+                    "percent": 5.701754385964912,
+                    "percent_avg": 6.645199063231851
+                },
+                {
+                    "label": "Řidičák - autobus",
+                    "percent": 5.263157894736842,
+                    "percent_avg": 6.030444964871194
+                },
+                {
+                    "label": "Hrací automaty",
+                    "percent": 5.263157894736842,
+                    "percent_avg": 1.9028103044496487
+                },
+                {
+                    "label": "RAW strava",
+                    "percent": 3.508771929824561,
+                    "percent_avg": 1.5807962529274004
+                },
+                {
+                    "label": "Vegani",
+                    "percent": 3.508771929824561,
+                    "percent_avg": 2.078454332552693
+                }
+            ]
+        },
+        {
+            "label": "Hudba",
+            "items": [
+                {
+                    "label": "České popové skupiny",
+                    "percent": 61.8421052631579,
+                    "percent_avg": 64.34426229508196
+                },
+                {
+                    "label": "Světový pop",
+                    "percent": 57.45614035087719,
+                    "percent_avg": 50.35128805620609
+                },
+                {
+                    "label": "Klasická hudba",
+                    "percent": 53.50877192982456,
+                    "percent_avg": 35.567915690866506
+                },
+                {
+                    "label": "Indie rock",
+                    "percent": 52.63157894736842,
+                    "percent_avg": 41.012880562060886
+                },
+                {
+                    "label": "Punk a rock",
+                    "percent": 50.43859649122807,
+                    "percent_avg": 46.16510538641686
+                },
+                {
+                    "label": "Čeští popoví zpěváci",
+                    "percent": 49.122807017543856,
+                    "percent_avg": 49.61943793911007
+                },
+                {
+                    "label": "Jazz a swing",
+                    "percent": 42.10526315789473,
+                    "percent_avg": 27.693208430913348
+                },
+                {
+                    "label": "Country",
+                    "percent": 39.91228070175439,
+                    "percent_avg": 38.40749414519906
+                },
+                {
+                    "label": "Hip-hop",
+                    "percent": 33.771929824561404,
+                    "percent_avg": 24.882903981264636
+                },
+                {
+                    "label": "Elektronická hudba",
+                    "percent": 32.01754385964912,
+                    "percent_avg": 17.096018735362996
+                },
+                {
+                    "label": "D'n'B",
+                    "percent": 20.175438596491226,
+                    "percent_avg": 12.207259953161593
+                },
+                {
+                    "label": "Dechovka",
+                    "percent": 19.298245614035086,
+                    "percent_avg": 19.23302107728337
+                }
+            ]
+        },
+        {
+            "label": "Mediální kanály",
+            "items": [
+                {
+                    "label": "Pořady o dění ve světě",
+                    "percent": 87.71929824561403,
+                    "percent_avg": 70.05269320843091
+                },
+                {
+                    "label": "Seriály",
+                    "percent": 69.2982456140351,
+                    "percent_avg": 69.70140515222482
+                },
+                {
+                    "label": "Pořady o přírodě",
+                    "percent": 66.66666666666666,
+                    "percent_avg": 57.84543325526932
+                },
+                {
+                    "label": "Weby o vaření",
+                    "percent": 63.1578947368421,
+                    "percent_avg": 62.38290398126464
+                },
+                {
+                    "label": "TV online",
+                    "percent": 57.45614035087719,
+                    "percent_avg": 35.831381733021075
+                },
+                {
+                    "label": "Pořady o financích",
+                    "percent": 55.70175438596491,
+                    "percent_avg": 23.74121779859485
+                },
+                {
+                    "label": "Pořady o bydlení a zahradě",
+                    "percent": 52.19298245614035,
+                    "percent_avg": 48.97540983606557
+                },
+                {
+                    "label": "Pořady o sportu",
+                    "percent": 46.92982456140351,
+                    "percent_avg": 36.768149882903984
+                },
+                {
+                    "label": "Časopisy pro muže",
+                    "percent": 46.05263157894737,
+                    "percent_avg": 21.370023419203747
+                },
+                {
+                    "label": "Časopisy pro ženy",
+                    "percent": 41.66666666666667,
+                    "percent_avg": 30.708430913348945
+                },
+                {
+                    "label": "Rádio online",
+                    "percent": 37.280701754385966,
+                    "percent_avg": 25.146370023419202
+                },
+                {
+                    "label": "Diskutují online denně",
+                    "percent": 32.45614035087719,
+                    "percent_avg": 20.316159250585482
+                },
+                {
+                    "label": "Neposlouchají rádio",
+                    "percent": 27.631578947368425,
+                    "percent_avg": 33.37236533957845
+                },
+                {
+                    "label": "Pořady o módě a stylu",
+                    "percent": 27.192982456140353,
+                    "percent_avg": 19.584309133489462
+                },
+                {
+                    "label": "Weby pro ženy",
+                    "percent": 25.877192982456144,
+                    "percent_avg": 31.23536299765808
+                },
+                {
+                    "label": "Alternativní zpravodajské weby",
+                    "percent": 24.12280701754386,
+                    "percent_avg": 12.353629976580796
+                },
+                {
+                    "label": "Placenou TV denně",
+                    "percent": 22.807017543859647,
+                    "percent_avg": 18.35480093676815
+                },
+                {
+                    "label": "Nesledují TV",
+                    "percent": 6.578947368421052,
+                    "percent_avg": 9.748243559718968
+                }
+            ]
+        },
+        {
+            "label": "Hlavní mediální kanály",
+            "items": [
+                {
+                    "label": "Čtou tisk",
+                    "percent": 100.0,
+                    "percent_avg": 56.64519906323186
+                },
+                {
+                    "label": "Čtou tisk online",
+                    "percent": 97.36842105263158,
+                    "percent_avg": 83.13817330210773
+                },
+                {
+                    "label": "Čtou magazíny",
+                    "percent": 87.71929824561403,
+                    "percent_avg": 63.2903981264637
+                },
+                {
+                    "label": "TV klasicky",
+                    "percent": 73.68421052631578,
+                    "percent_avg": 77.89812646370024
+                },
+                {
+                    "label": "Rádio klasicky",
+                    "percent": 58.333333333333336,
+                    "percent_avg": 56.674473067915685
+                },
+                {
+                    "label": "Kino",
+                    "percent": 33.33333333333333,
+                    "percent_avg": 18.588992974238877
+                }
+            ]
+        },
+        {
+            "label": "Zprávy čerpají",
+            "items": [
+                {
+                    "label": "Zprávy čerpají z online médií",
+                    "percent": 81.57894736842105,
+                    "percent_avg": 67.59367681498829
+                },
+                {
+                    "label": "Zprávy čerpají z TV",
+                    "percent": 75.0,
+                    "percent_avg": 74.97072599531616
+                },
+                {
+                    "label": "Zprávy čerpají ze sociálních sítí a blogů",
+                    "percent": 63.1578947368421,
+                    "percent_avg": 60.245901639344254
+                },
+                {
+                    "label": "Zprávy čerpají z rádia",
+                    "percent": 55.70175438596491,
+                    "percent_avg": 47.10187353629976
+                },
+                {
+                    "label": "Zprávy čerpají z tištěných médií",
+                    "percent": 54.824561403508774,
+                    "percent_avg": 31.528103044496486
+                },
+                {
+                    "label": "Zprávy čerpají od blízkých lidí",
+                    "percent": 50.43859649122807,
+                    "percent_avg": 43.0327868852459
+                }
+            ]
+        },
+        {
+            "label": "Pravidelně sledovaná média",
+            "items": [
+                {
+                    "label": "NOVA",
+                    "percent": 27.631578947368425,
+                    "percent_avg": 34.806791569086656
+                },
+                {
+                    "label": "ČT 1",
+                    "percent": 27.192982456140353,
+                    "percent_avg": 18.735362997658083
+                },
+                {
+                    "label": "Novinky.cz",
+                    "percent": 26.31578947368421,
+                    "percent_avg": 19.17447306791569
+                },
+                {
+                    "label": "iDnes.cz",
+                    "percent": 22.807017543859647,
+                    "percent_avg": 14.724824355971897
+                },
+                {
+                    "label": "MF DNES",
+                    "percent": 16.666666666666664,
+                    "percent_avg": 6.61592505854801
+                },
+                {
+                    "label": "PRIMA Cool",
+                    "percent": 16.666666666666664,
+                    "percent_avg": 14.227166276346603
+                },
+                {
+                    "label": "ČT 24",
+                    "percent": 16.228070175438596,
+                    "percent_avg": 9.250585480093678
+                },
+                {
+                    "label": "Metro",
+                    "percent": 15.789473684210526,
+                    "percent_avg": 4.215456674473068
+                },
+                {
+                    "label": "E15",
+                    "percent": 13.596491228070176,
+                    "percent_avg": 1.053864168618267
+                },
+                {
+                    "label": "PRIMA Family",
+                    "percent": 13.596491228070176,
+                    "percent_avg": 14.139344262295081
+                },
+                {
+                    "label": "Český rozhlas Radiožurnál",
+                    "percent": 13.157894736842104,
+                    "percent_avg": 7.581967213114754
+                },
+                {
+                    "label": "Aktuálně.cz",
+                    "percent": 10.964912280701753,
+                    "percent_avg": 6.001170960187354
+                },
+                {
+                    "label": "NOVA Cinema",
+                    "percent": 9.649122807017543,
+                    "percent_avg": 9.39695550351288
+                },
+                {
+                    "label": "Blesk",
+                    "percent": 8.771929824561402,
+                    "percent_avg": 9.631147540983607
+                },
+                {
+                    "label": "ČT SPORT",
+                    "percent": 8.333333333333332,
+                    "percent_avg": 7.1135831381733015
+                },
+                {
+                    "label": "Rádio Blaník",
+                    "percent": 7.894736842105263,
+                    "percent_avg": 5.327868852459016
+                },
+                {
+                    "label": "Evropa 2",
+                    "percent": 7.456140350877193,
+                    "percent_avg": 8.665105386416862
+                },
+                {
+                    "label": "Rádio Impuls",
+                    "percent": 7.456140350877193,
+                    "percent_avg": 7.43559718969555
+                },
+                {
+                    "label": "ČT 2",
+                    "percent": 7.456140350877193,
+                    "percent_avg": 5.85480093676815
+                },
+                {
+                    "label": "Blesk.cz",
+                    "percent": 6.578947368421052,
+                    "percent_avg": 4.537470725995316
+                },
+                {
+                    "label": "Deník.cz",
+                    "percent": 6.578947368421052,
+                    "percent_avg": 3.9227166276346606
+                },
+                {
+                    "label": "e15.cz",
+                    "percent": 6.578947368421052,
+                    "percent_avg": 0.6733021077283372
+                },
+                {
+                    "label": "Deník",
+                    "percent": 6.578947368421052,
+                    "percent_avg": 4.537470725995316
+                },
+                {
+                    "label": "ParlamentníListy.cz",
+                    "percent": 5.701754385964912,
+                    "percent_avg": 2.898126463700234
+                },
+                {
+                    "label": "Lidové noviny",
+                    "percent": 5.701754385964912,
+                    "percent_avg": 1.727166276346604
+                },
+                {
+                    "label": "TV Barrandov",
+                    "percent": 5.701754385964912,
+                    "percent_avg": 4.215456674473068
+                },
+                {
+                    "label": "Hospodářské noviny",
+                    "percent": 4.824561403508771,
+                    "percent_avg": 1.8149882903981265
+                },
+                {
+                    "label": "Sport.cz",
+                    "percent": 4.385964912280701,
+                    "percent_avg": 2.693208430913349
+                },
+                {
+                    "label": "iHned.cz",
+                    "percent": 3.9473684210526314,
+                    "percent_avg": 1.2002341920374706
+                },
+                {
+                    "label": "Lidovky.cz",
+                    "percent": 3.9473684210526314,
+                    "percent_avg": 1.6100702576112413
+                },
+                {
+                    "label": "Český rozhlas Dvojka",
+                    "percent": 3.508771929824561,
+                    "percent_avg": 1.8442622950819672
+                },
+                {
+                    "label": "Country Radio",
+                    "percent": 3.508771929824561,
+                    "percent_avg": 2.107728337236534
+                },
+                {
+                    "label": "Kiss",
+                    "percent": 3.508771929824561,
+                    "percent_avg": 4.888758782201405
+                },
+                {
+                    "label": "5+2",
+                    "percent": 3.508771929824561,
+                    "percent_avg": 1.8442622950819672
+                },
+                {
+                    "label": "PRIMA Love",
+                    "percent": 3.508771929824561,
+                    "percent_avg": 4.010538641686183
+                },
+                {
+                    "label": "Frekvence 1",
+                    "percent": 3.070175438596491,
+                    "percent_avg": 4.274004683840749
+                },
+                {
+                    "label": "Živě.cz",
+                    "percent": 3.070175438596491,
+                    "percent_avg": 0.8782201405152225
+                },
+                {
+                    "label": "Deník Sport",
+                    "percent": 3.070175438596491,
+                    "percent_avg": 2.5468384074941453
+                },
+                {
+                    "label": "Právo",
+                    "percent": 2.1929824561403506,
+                    "percent_avg": 1.8149882903981265
+                },
+                {
+                    "label": "RockZone 1059",
+                    "percent": 1.7543859649122806,
+                    "percent_avg": 0.3805620608899297
+                },
+                {
+                    "label": "Aha!",
+                    "percent": 1.7543859649122806,
+                    "percent_avg": 2.4882903981264635
+                },
+                {
+                    "label": "Rádio Krokodýl",
+                    "percent": 1.3157894736842104,
+                    "percent_avg": 1.1124121779859486
+                },
+                {
+                    "label": "Extra.cz",
+                    "percent": 1.3157894736842104,
+                    "percent_avg": 1.405152224824356
+                },
+                {
+                    "label": "super.cz",
+                    "percent": 1.3157894736842104,
+                    "percent_avg": 1.4637002341920375
+                },
+                {
+                    "label": "Český Impuls",
+                    "percent": 0.8771929824561403,
+                    "percent_avg": 1.2002341920374706
+                },
+                {
+                    "label": "Český rozhlas Plus",
+                    "percent": 0.8771929824561403,
+                    "percent_avg": 0.9074941451990632
+                },
+                {
+                    "label": "Český rozhlas Radio Wave",
+                    "percent": 0.8771929824561403,
+                    "percent_avg": 0.20491803278688525
+                },
+                {
+                    "label": "Fajn radio",
+                    "percent": 0.8771929824561403,
+                    "percent_avg": 1.1709601873536302
+                },
+                {
+                    "label": "Radio 1",
+                    "percent": 0.8771929824561403,
+                    "percent_avg": 0.5269320843091335
+                },
+                {
+                    "label": "Rock Radio",
+                    "percent": 0.8771929824561403,
+                    "percent_avg": 0.936768149882904
+                },
+                {
+                    "label": "DeníkReferendum.cz",
+                    "percent": 0.8771929824561403,
+                    "percent_avg": 0.20491803278688525
+                },
+                {
+                    "label": "g.cz",
+                    "percent": 0.8771929824561403,
+                    "percent_avg": 0.1756440281030445
+                },
+                {
+                    "label": "Radio Spin",
+                    "percent": 0.43859649122807015,
+                    "percent_avg": 0.26346604215456676
+                },
+                {
+                    "label": "Zet + BBC World Service",
+                    "percent": 0.43859649122807015,
+                    "percent_avg": 0.0585480093676815
+                },
+                {
+                    "label": "Ahaonline.cz",
+                    "percent": 0.43859649122807015,
+                    "percent_avg": 0.9953161592505856
+                },
+                {
+                    "label": "Óčko",
+                    "percent": 0.43859649122807015,
+                    "percent_avg": 0.9660421545667448
+                },
+                {
+                    "label": "Český rozhlas Vltava",
+                    "percent": 0.0,
+                    "percent_avg": 0.43911007025761123
+                },
+                {
+                    "label": "ČRo",
+                    "percent": 0.0,
+                    "percent_avg": 1.1709601873536302
+                },
+                {
+                    "label": "Expres FM",
+                    "percent": 0.0,
+                    "percent_avg": 0.32201405152224827
+                },
+                {
+                    "label": "Free Radio",
+                    "percent": 0.0,
+                    "percent_avg": 0.14637002341920377
+                },
+                {
+                    "label": "Rock Max",
+                    "percent": 0.0,
+                    "percent_avg": 0.32201405152224827
+                }
+            ]
+        },
+        {
+            "label": "Média sledovaná občas",
+            "items": [
+                {
+                    "label": "E15",
+                    "percent": 100.0,
+                    "percent_avg": 6.674473067915692
+                },
+                {
+                    "label": "iDnes.cz",
+                    "percent": 76.31578947368422,
+                    "percent_avg": 58.40163934426229
+                },
+                {
+                    "label": "Novinky.cz",
+                    "percent": 73.68421052631578,
+                    "percent_avg": 55.15222482435597
+                },
+                {
+                    "label": "ČT 1",
+                    "percent": 62.28070175438597,
+                    "percent_avg": 57.377049180327866
+                },
+                {
+                    "label": "Metro",
+                    "percent": 56.14035087719298,
+                    "percent_avg": 18.79391100702576
+                },
+                {
+                    "label": "NOVA",
+                    "percent": 56.14035087719298,
+                    "percent_avg": 62.031615925058546
+                },
+                {
+                    "label": "e15.cz",
+                    "percent": 54.385964912280706,
+                    "percent_avg": 9.514051522248243
+                },
+                {
+                    "label": "ČT 24",
+                    "percent": 49.56140350877193,
+                    "percent_avg": 33.050351288056206
+                },
+                {
+                    "label": "NOVA Cinema",
+                    "percent": 49.122807017543856,
+                    "percent_avg": 46.80913348946136
+                },
+                {
+                    "label": "PRIMA Cool",
+                    "percent": 48.68421052631579,
+                    "percent_avg": 44.14519906323185
+                },
+                {
+                    "label": "Aktuálně.cz",
+                    "percent": 47.80701754385965,
+                    "percent_avg": 28.278688524590162
+                },
+                {
+                    "label": "PRIMA Family",
+                    "percent": 46.05263157894737,
+                    "percent_avg": 44.52576112412178
+                },
+                {
+                    "label": "Deník.cz",
+                    "percent": 44.29824561403509,
+                    "percent_avg": 31.498829039812648
+                },
+                {
+                    "label": "MF DNES",
+                    "percent": 42.10526315789473,
+                    "percent_avg": 19.086651053864166
+                },
+                {
+                    "label": "ČT 2",
+                    "percent": 40.35087719298245,
+                    "percent_avg": 31.557377049180328
+                },
+                {
+                    "label": "Reflex",
+                    "percent": 39.91228070175439,
+                    "percent_avg": 16.364168618266977
+                },
+                {
+                    "label": "National Geographic",
+                    "percent": 38.59649122807017,
+                    "percent_avg": 16.364168618266977
+                },
+                {
+                    "label": "Blesk.cz",
+                    "percent": 38.59649122807017,
+                    "percent_avg": 27.2248243559719
+                },
+                {
+                    "label": "iHned.cz",
+                    "percent": 35.08771929824561,
+                    "percent_avg": 12.353629976580796
+                },
+                {
+                    "label": "Deník",
+                    "percent": 34.64912280701755,
+                    "percent_avg": 16.920374707259953
+                },
+                {
+                    "label": "ParlamentníListy.cz",
+                    "percent": 33.771929824561404,
+                    "percent_avg": 14.0807962529274
+                },
+                {
+                    "label": "Hospodářské noviny",
+                    "percent": 33.771929824561404,
+                    "percent_avg": 11.32903981264637
+                },
+                {
+                    "label": "Epocha",
+                    "percent": 33.33333333333333,
+                    "percent_avg": 16.48126463700234
+                },
+                {
+                    "label": "ČT SPORT",
+                    "percent": 32.89473684210527,
+                    "percent_avg": 25.7903981264637
+                },
+                {
+                    "label": "super.cz",
+                    "percent": 31.57894736842105,
+                    "percent_avg": 21.838407494145198
+                },
+                {
+                    "label": "Blesk",
+                    "percent": 31.57894736842105,
+                    "percent_avg": 25.76112412177986
+                },
+                {
+                    "label": "TV Barrandov",
+                    "percent": 30.701754385964914,
+                    "percent_avg": 26.024590163934423
+                },
+                {
+                    "label": "Lidovky.cz",
+                    "percent": 28.947368421052634,
+                    "percent_avg": 13.553864168618269
+                },
+                {
+                    "label": "PRIMA Love",
+                    "percent": 28.947368421052634,
+                    "percent_avg": 23.770491803278688
+                },
+                {
+                    "label": "Týden",
+                    "percent": 28.50877192982456,
+                    "percent_avg": 7.757611241217798
+                },
+                {
+                    "label": "Sport.cz",
+                    "percent": 28.50877192982456,
+                    "percent_avg": 19.350117096018735
+                },
+                {
+                    "label": "Lidové noviny",
+                    "percent": 28.07017543859649,
+                    "percent_avg": 8.430913348946136
+                },
+                {
+                    "label": "Respekt",
+                    "percent": 27.192982456140353,
+                    "percent_avg": 10.597189695550352
+                },
+                {
+                    "label": "Svět motorů",
+                    "percent": 27.192982456140353,
+                    "percent_avg": 12.324355971896955
+                },
+                {
+                    "label": "Téma",
+                    "percent": 27.192982456140353,
+                    "percent_avg": 11.826697892271664
+                },
+                {
+                    "label": "Extra.cz",
+                    "percent": 25.877192982456144,
+                    "percent_avg": 16.83255269320843
+                },
+                {
+                    "label": "Óčko",
+                    "percent": 25.0,
+                    "percent_avg": 16.364168618266977
+                },
+                {
+                    "label": "Lidé a země",
+                    "percent": 24.561403508771928,
+                    "percent_avg": 8.16744730679157
+                },
+                {
+                    "label": "Auto tip",
+                    "percent": 24.12280701754386,
+                    "percent_avg": 9.718969555035128
+                },
+                {
+                    "label": "Živě.cz",
+                    "percent": 23.24561403508772,
+                    "percent_avg": 9.162763466042154
+                },
+                {
+                    "label": "Rytmus života",
+                    "percent": 22.807017543859647,
+                    "percent_avg": 18.149882903981265
+                },
+                {
+                    "label": "Forbes",
+                    "percent": 21.929824561403507,
+                    "percent_avg": 6.118266978922716
+                },
+                {
+                    "label": "Právo",
+                    "percent": 21.052631578947366,
+                    "percent_avg": 7.084309133489461
+                },
+                {
+                    "label": "Katka",
+                    "percent": 20.175438596491226,
+                    "percent_avg": 10.50936768149883
+                },
+                {
+                    "label": "Žena a život",
+                    "percent": 19.298245614035086,
+                    "percent_avg": 14.373536299765806
+                },
+                {
+                    "label": "Ahaonline.cz",
+                    "percent": 18.859649122807017,
+                    "percent_avg": 11.153395784543326
+                },
+                {
+                    "label": "Deník Sport",
+                    "percent": 18.859649122807017,
+                    "percent_avg": 9.133489461358314
+                },
+                {
+                    "label": "Svět ženy",
+                    "percent": 18.421052631578945,
+                    "percent_avg": 9.748243559718968
+                },
+                {
+                    "label": "Aha!",
+                    "percent": 17.982456140350877,
+                    "percent_avg": 11.504683840749415
+                },
+                {
+                    "label": "Pestrý svět",
+                    "percent": 17.105263157894736,
+                    "percent_avg": 9.484777517564403
+                },
+                {
+                    "label": "Cosmopolitan",
+                    "percent": 15.350877192982457,
+                    "percent_avg": 5.708430913348947
+                },
+                {
+                    "label": "Moje psychologie",
+                    "percent": 14.473684210526317,
+                    "percent_avg": 5.532786885245901
+                },
+                {
+                    "label": "Vlasta",
+                    "percent": 13.157894736842104,
+                    "percent_avg": 7.757611241217798
+                },
+                {
+                    "label": "Deník N",
+                    "percent": 13.157894736842104,
+                    "percent_avg": 3.337236533957846
+                },
+                {
+                    "label": "elle",
+                    "percent": 12.280701754385964,
+                    "percent_avg": 5.825526932084309
+                },
+                {
+                    "label": "Esquire",
+                    "percent": 12.280701754385964,
+                    "percent_avg": 3.307962529274005
+                },
+                {
+                    "label": "ForMen",
+                    "percent": 11.842105263157894,
+                    "percent_avg": 3.5421545667447303
+                },
+                {
+                    "label": "g.cz",
+                    "percent": 10.526315789473683,
+                    "percent_avg": 3.2201405152224827
+                },
+                {
+                    "label": "Ekonom",
+                    "percent": 9.649122807017543,
+                    "percent_avg": 2.2540983606557377
+                },
+                {
+                    "label": "DeníkReferendum.cz",
+                    "percent": 7.894736842105263,
+                    "percent_avg": 1.5222482435597189
+                },
+                {
+                    "label": "Šlágr TV",
+                    "percent": 6.578947368421052,
+                    "percent_avg": 3.161592505854801
+                },
+                {
+                    "label": "Haló noviny",
+                    "percent": 5.701754385964912,
+                    "percent_avg": 3.13231850117096
+                },
+                {
+                    "label": "ceskatelevize.cz",
+                    "percent": 4.385964912280701,
+                    "percent_avg": 2.1662763466042154
+                },
+                {
+                    "label": "tvnova.cz",
+                    "percent": 3.9473684210526314,
+                    "percent_avg": 2.693208430913349
+                },
+                {
+                    "label": "iprima.cz",
+                    "percent": 3.508771929824561,
+                    "percent_avg": 1.9028103044496487
+                },
+                {
+                    "label": "DVTV",
+                    "percent": 3.070175438596491,
+                    "percent_avg": 0.9074941451990632
+                },
+                {
+                    "label": "seznamzpravy.cz",
+                    "percent": 3.070175438596491,
+                    "percent_avg": 1.4344262295081966
+                },
+                {
+                    "label": "stream.cz",
+                    "percent": 1.7543859649122806,
+                    "percent_avg": 1.1709601873536302
+                },
+                {
+                    "label": "5+2",
+                    "percent": 0.43859649122807015,
+                    "percent_avg": 0.02927400468384075
+                }
+            ]
+        },
+        {
+            "label": "Nakupování",
+            "items": [
+                {
+                    "label": "Supermarket",
+                    "percent": 85.52631578947368,
+                    "percent_avg": 82.28922716627635
+                },
+                {
+                    "label": "Elektroniku nakupují vybíravě",
+                    "percent": 78.50877192982456,
+                    "percent_avg": 77.45901639344262
+                },
+                {
+                    "label": "Nakupují přes internet elektroniku",
+                    "percent": 78.0701754385965,
+                    "percent_avg": 66.18852459016394
+                },
+                {
+                    "label": "Nakupují přes internet věci pro volný čas",
+                    "percent": 76.75438596491229,
+                    "percent_avg": 66.92037470725995
+                },
+                {
+                    "label": "Využívají zákaznické karty",
+                    "percent": 69.2982456140351,
+                    "percent_avg": 69.61358313817331
+                },
+                {
+                    "label": "Nakupují přes internet na dům a zahradu",
+                    "percent": 65.78947368421053,
+                    "percent_avg": 63.992974238875874
+                },
+                {
+                    "label": "Samoobsluhy",
+                    "percent": 65.35087719298247,
+                    "percent_avg": 60.128805620608894
+                },
+                {
+                    "label": "Využívají slevové letáky",
+                    "percent": 60.96491228070175,
+                    "percent_avg": 58.07962529274005
+                },
+                {
+                    "label": "Nakupují přes internet oblečení",
+                    "percent": 59.210526315789465,
+                    "percent_avg": 56.733021077283375
+                },
+                {
+                    "label": "Oblečení nakupují vybíravě",
+                    "percent": 58.333333333333336,
+                    "percent_avg": 58.75292740046838
+                },
+                {
+                    "label": "Nakupují přes internet věci pro zdraví",
+                    "percent": 57.89473684210527,
+                    "percent_avg": 44.40866510538642
+                },
+                {
+                    "label": "Potraviny nakupují rychle",
+                    "percent": 57.01754385964912,
+                    "percent_avg": 56.996487119437944
+                },
+                {
+                    "label": "Diskonty",
+                    "percent": 56.14035087719298,
+                    "percent_avg": 49.29742388758782
+                },
+                {
+                    "label": "Předem vědí, co chtějí koupit",
+                    "percent": 55.26315789473685,
+                    "percent_avg": 55.35714285714286
+                },
+                {
+                    "label": "Studují etickou stránku potravin",
+                    "percent": 53.94736842105263,
+                    "percent_avg": 43.940281030444964
+                },
+                {
+                    "label": "Spíš utrácí",
+                    "percent": 51.31578947368421,
+                    "percent_avg": 57.113583138173304
+                },
+                {
+                    "label": "Nakupují přes internet kosmetika a drogerie",
+                    "percent": 49.56140350877193,
+                    "percent_avg": 43.676814988290396
+                },
+                {
+                    "label": "Nakupují přes internet pro děti",
+                    "percent": 49.122807017543856,
+                    "percent_avg": 43.79391100702576
+                },
+                {
+                    "label": "Pultové prodejny",
+                    "percent": 49.122807017543856,
+                    "percent_avg": 37.3536299765808
+                },
+                {
+                    "label": "Často nakupují přes internet",
+                    "percent": 48.68421052631579,
+                    "percent_avg": 33.460187353629976
+                },
+                {
+                    "label": "Spíš šetří",
+                    "percent": 48.24561403508772,
+                    "percent_avg": 42.65222482435597
+                },
+                {
+                    "label": "Nakupují impulzivně",
+                    "percent": 44.73684210526316,
+                    "percent_avg": 44.642857142857146
+                },
+                {
+                    "label": "Využívají slevové kupóny",
+                    "percent": 44.29824561403509,
+                    "percent_avg": 28.366510538641688
+                },
+                {
+                    "label": "Osvědčené značky",
+                    "percent": 42.54385964912281,
+                    "percent_avg": 33.78220140515222
+                },
+                {
+                    "label": "Pokaždé jiné značky",
+                    "percent": 40.35087719298245,
+                    "percent_avg": 40.5152224824356
+                },
+                {
+                    "label": "Potraviny nakupují vybíravě",
+                    "percent": 36.84210526315789,
+                    "percent_avg": 36.18266978922717
+                },
+                {
+                    "label": "Drogerie",
+                    "percent": 36.84210526315789,
+                    "percent_avg": 26.024590163934423
+                },
+                {
+                    "label": "Oblečení nakupují rychle",
+                    "percent": 33.771929824561404,
+                    "percent_avg": 34.3384074941452
+                },
+                {
+                    "label": "Nakupují ve velkém",
+                    "percent": 31.140350877192986,
+                    "percent_avg": 21.633489461358312
+                },
+                {
+                    "label": "Nakupují přes internet potraviny",
+                    "percent": 29.385964912280706,
+                    "percent_avg": 14.812646370023419
+                },
+                {
+                    "label": "Mají kreditku",
+                    "percent": 25.438596491228072,
+                    "percent_avg": 17.94496487119438
+                },
+                {
+                    "label": "Používají kontokorent",
+                    "percent": 17.982456140350877,
+                    "percent_avg": 11.387587822014051
+                },
+                {
+                    "label": "Elektroniku nakupují rychle",
+                    "percent": 14.912280701754385,
+                    "percent_avg": 12.734192037470727
+                },
+                {
+                    "label": "Nakupují na splátky",
+                    "percent": 14.035087719298245,
+                    "percent_avg": 7.02576112412178
+                },
+                {
+                    "label": "Používají odloženou platbu",
+                    "percent": 11.403508771929824,
+                    "percent_avg": 7.02576112412178
+                },
+                {
+                    "label": "Nevyužívají možností, jak ušetřit",
+                    "percent": 8.333333333333332,
+                    "percent_avg": 10.040983606557377
+                },
+                {
+                    "label": "Utrácí hodně za oblečení",
+                    "percent": 6.578947368421052,
+                    "percent_avg": 3.3665105386416863
+                },
+                {
+                    "label": "Nenakupují přes internet",
+                    "percent": 6.140350877192982,
+                    "percent_avg": 4.976580796252927
+                }
+            ]
+        },
+        {
+            "label": "Kupované značky (spotřební koš)",
+            "items": [
+                {
+                    "label": "DM",
+                    "percent": 76.75438596491229,
+                    "percent_avg": 61.41686182669789
+                },
+                {
+                    "label": "Android",
+                    "percent": 76.75438596491229,
+                    "percent_avg": 76.72716627634661
+                },
+                {
+                    "label": "Kofola",
+                    "percent": 58.77192982456141,
+                    "percent_avg": 50.497658079625296
+                },
+                {
+                    "label": "Milka",
+                    "percent": 57.01754385964912,
+                    "percent_avg": 53.74707259953162
+                },
+                {
+                    "label": "Teta",
+                    "percent": 56.57894736842105,
+                    "percent_avg": 50.96604215456675
+                },
+                {
+                    "label": "McDonald's",
+                    "percent": 56.57894736842105,
+                    "percent_avg": 33.6943793911007
+                },
+                {
+                    "label": "Orion",
+                    "percent": 54.824561403508774,
+                    "percent_avg": 44.730679156908664
+                },
+                {
+                    "label": "Coca-cola",
+                    "percent": 53.94736842105263,
+                    "percent_avg": 41.68618266978923
+                },
+                {
+                    "label": "C&A",
+                    "percent": 52.19298245614035,
+                    "percent_avg": 36.4168618266979
+                },
+                {
+                    "label": "České dráhy",
+                    "percent": 51.75438596491229,
+                    "percent_avg": 39.31498829039813
+                },
+                {
+                    "label": "KFC",
+                    "percent": 51.75438596491229,
+                    "percent_avg": 31.059718969555032
+                },
+                {
+                    "label": "Plzeňský prazdroj",
+                    "percent": 50.0,
+                    "percent_avg": 34.54332552693209
+                },
+                {
+                    "label": "H&M",
+                    "percent": 48.68421052631579,
+                    "percent_avg": 38.96370023419204
+                },
+                {
+                    "label": "Kozel",
+                    "percent": 47.368421052631575,
+                    "percent_avg": 36.79742388758782
+                },
+                {
+                    "label": "Kinder",
+                    "percent": 46.49122807017544,
+                    "percent_avg": 43.58899297423888
+                },
+                {
+                    "label": "Tchibo",
+                    "percent": 42.10526315789473,
+                    "percent_avg": 22.980093676814988
+                },
+                {
+                    "label": "New Yorker",
+                    "percent": 41.228070175438596,
+                    "percent_avg": 36.211943793911004
+                },
+                {
+                    "label": "Jacobs",
+                    "percent": 40.35087719298245,
+                    "percent_avg": 35.48009367681499
+                },
+                {
+                    "label": "Pepsi",
+                    "percent": 39.473684210526315,
+                    "percent_avg": 28.747072599531613
+                },
+                {
+                    "label": "Notebook HP (Hewlett–Packard)",
+                    "percent": 38.15789473684211,
+                    "percent_avg": 26.492974238875878
+                },
+                {
+                    "label": "Gambrinus",
+                    "percent": 36.84210526315789,
+                    "percent_avg": 27.546838407494146
+                },
+                {
+                    "label": "Škoda",
+                    "percent": 36.84210526315789,
+                    "percent_avg": 33.75292740046839
+                },
+                {
+                    "label": "RegioJet (Student Agency)",
+                    "percent": 36.84210526315789,
+                    "percent_avg": 18.88173302107728
+                },
+                {
+                    "label": "Nescafé",
+                    "percent": 35.96491228070175,
+                    "percent_avg": 34.68969555035129
+                },
+                {
+                    "label": "Mobil Samsung",
+                    "percent": 35.96491228070175,
+                    "percent_avg": 26.84426229508197
+                },
+                {
+                    "label": "Rossmann",
+                    "percent": 35.526315789473685,
+                    "percent_avg": 23.09718969555035
+                },
+                {
+                    "label": "Lindt",
+                    "percent": 35.526315789473685,
+                    "percent_avg": 22.24824355971897
+                },
+                {
+                    "label": "Svijany",
+                    "percent": 33.33333333333333,
+                    "percent_avg": 22.68735362997658
+                },
+                {
+                    "label": "Figaro",
+                    "percent": 33.33333333333333,
+                    "percent_avg": 20.60889929742389
+                },
+                {
+                    "label": "Reserved",
+                    "percent": 32.89473684210527,
+                    "percent_avg": 19.52576112412178
+                },
+                {
+                    "label": "Marks & Spencer",
+                    "percent": 31.57894736842105,
+                    "percent_avg": 12.295081967213115
+                },
+                {
+                    "label": "Notebook Lenovo",
+                    "percent": 31.140350877192986,
+                    "percent_avg": 26.96135831381733
+                },
+                {
+                    "label": "Krušovice",
+                    "percent": 30.701754385964914,
+                    "percent_avg": 16.83255269320843
+                },
+                {
+                    "label": "Staropramen",
+                    "percent": 30.701754385964914,
+                    "percent_avg": 19.496487119437937
+                },
+                {
+                    "label": "Mobil Huawei",
+                    "percent": 30.701754385964914,
+                    "percent_avg": 27.107728337236537
+                },
+                {
+                    "label": "Radegast",
+                    "percent": 29.82456140350877,
+                    "percent_avg": 24.033957845433253
+                },
+                {
+                    "label": "Notebook Acer",
+                    "percent": 28.50877192982456,
+                    "percent_avg": 19.52576112412178
+                },
+                {
+                    "label": "Využívají Uber",
+                    "percent": 27.192982456140353,
+                    "percent_avg": 11.153395784543326
+                },
+                {
+                    "label": "Jihlavanka",
+                    "percent": 26.31578947368421,
+                    "percent_avg": 23.711943793911008
+                },
+                {
+                    "label": "Flixbus",
+                    "percent": 25.877192982456144,
+                    "percent_avg": 7.611241217798595
+                },
+                {
+                    "label": "Bernard",
+                    "percent": 25.0,
+                    "percent_avg": 14.168618266978921
+                },
+                {
+                    "label": "ZARA",
+                    "percent": 25.0,
+                    "percent_avg": 12.031615925058547
+                },
+                {
+                    "label": "Braník",
+                    "percent": 24.12280701754386,
+                    "percent_avg": 16.598360655737704
+                },
+                {
+                    "label": "Mobil Apple (iPhone)",
+                    "percent": 23.684210526315788,
+                    "percent_avg": 14.256440281030445
+                },
+                {
+                    "label": "Bageterie Boulevard",
+                    "percent": 22.807017543859647,
+                    "percent_avg": 9.660421545667447
+                },
+                {
+                    "label": "Mobil Xiaomi",
+                    "percent": 22.36842105263158,
+                    "percent_avg": 16.364168618266977
+                },
+                {
+                    "label": "Notebook Asus",
+                    "percent": 22.36842105263158,
+                    "percent_avg": 17.915690866510538
+                },
+                {
+                    "label": "Notebook Apple",
+                    "percent": 21.052631578947366,
+                    "percent_avg": 8.255269320843091
+                },
+                {
+                    "label": "Budvar",
+                    "percent": 20.614035087719298,
+                    "percent_avg": 15.076112412177986
+                },
+                {
+                    "label": "Notebook Dell",
+                    "percent": 20.614035087719298,
+                    "percent_avg": 10.94847775175644
+                },
+                {
+                    "label": "Česká spořitelna",
+                    "percent": 19.736842105263158,
+                    "percent_avg": 21.86768149882904
+                },
+                {
+                    "label": "Burger King",
+                    "percent": 19.298245614035086,
+                    "percent_avg": 8.723653395784543
+                },
+                {
+                    "label": "Esprit",
+                    "percent": 18.859649122807017,
+                    "percent_avg": 9.133489461358314
+                },
+                {
+                    "label": "illy",
+                    "percent": 18.859649122807017,
+                    "percent_avg": 7.259953161592506
+                },
+                {
+                    "label": "Red Bull",
+                    "percent": 18.421052631578945,
+                    "percent_avg": 9.39695550351288
+                },
+                {
+                    "label": "Big Shock",
+                    "percent": 17.982456140350877,
+                    "percent_avg": 10.362997658079626
+                },
+                {
+                    "label": "Mobil Nokia",
+                    "percent": 17.543859649122805,
+                    "percent_avg": 9.660421545667447
+                },
+                {
+                    "label": "Douwe Egberts",
+                    "percent": 16.228070175438596,
+                    "percent_avg": 6.61592505854801
+                },
+                {
+                    "label": "Air Bank",
+                    "percent": 15.350877192982457,
+                    "percent_avg": 11.651053864168619
+                },
+                {
+                    "label": "TOP drogerie",
+                    "percent": 15.350877192982457,
+                    "percent_avg": 7.172131147540983
+                },
+                {
+                    "label": "Semtex",
+                    "percent": 14.473684210526317,
+                    "percent_avg": 7.903981264637003
+                },
+                {
+                    "label": "LeoExpress",
+                    "percent": 14.035087719298245,
+                    "percent_avg": 5.357142857142857
+                },
+                {
+                    "label": "Mobil Honor",
+                    "percent": 13.596491228070176,
+                    "percent_avg": 8.899297423887589
+                },
+                {
+                    "label": "Camel",
+                    "percent": 13.157894736842104,
+                    "percent_avg": 7.6990632318501175
+                },
+                {
+                    "label": "Volkswagen",
+                    "percent": 12.280701754385964,
+                    "percent_avg": 11.416861826697893
+                },
+                {
+                    "label": "Mobil Lenovo",
+                    "percent": 12.280701754385964,
+                    "percent_avg": 6.820843091334895
+                },
+                {
+                    "label": "Mobil HTC",
+                    "percent": 10.526315789473683,
+                    "percent_avg": 2.7224824355971897
+                },
+                {
+                    "label": "Mobil LG",
+                    "percent": 10.526315789473683,
+                    "percent_avg": 5.122950819672131
+                },
+                {
+                    "label": "ČSOB",
+                    "percent": 10.087719298245613,
+                    "percent_avg": 8.694379391100702
+                },
+                {
+                    "label": "Pietro Filipi",
+                    "percent": 10.087719298245613,
+                    "percent_avg": 2.927400468384075
+                },
+                {
+                    "label": "Mobil Sony",
+                    "percent": 10.087719298245613,
+                    "percent_avg": 4.156908665105386
+                },
+                {
+                    "label": "Komerční banka",
+                    "percent": 9.649122807017543,
+                    "percent_avg": 9.865339578454332
+                },
+                {
+                    "label": "Mobil Microsoft",
+                    "percent": 9.649122807017543,
+                    "percent_avg": 2.956674473067916
+                },
+                {
+                    "label": "mBank",
+                    "percent": 9.210526315789473,
+                    "percent_avg": 6.762295081967213
+                },
+                {
+                    "label": "L&M",
+                    "percent": 9.210526315789473,
+                    "percent_avg": 5.47423887587822
+                },
+                {
+                    "label": "MONETA Money Bank",
+                    "percent": 8.333333333333332,
+                    "percent_avg": 10.655737704918032
+                },
+                {
+                    "label": "Marlboro",
+                    "percent": 8.333333333333332,
+                    "percent_avg": 7.1135831381733015
+                },
+                {
+                    "label": "Mobil Alcatel",
+                    "percent": 8.333333333333332,
+                    "percent_avg": 2.5175644028103044
+                },
+                {
+                    "label": "Ford",
+                    "percent": 7.456140350877193,
+                    "percent_avg": 9.3384074941452
+                },
+                {
+                    "label": "Davidoff",
+                    "percent": 7.456140350877193,
+                    "percent_avg": 6.4110070257611245
+                },
+                {
+                    "label": "Viceroy",
+                    "percent": 7.456140350877193,
+                    "percent_avg": 6.937939110070257
+                },
+                {
+                    "label": "Raiffeisenbank",
+                    "percent": 6.140350877192982,
+                    "percent_avg": 4.918032786885246
+                },
+                {
+                    "label": "Chesterfield",
+                    "percent": 6.140350877192982,
+                    "percent_avg": 3.6885245901639343
+                },
+                {
+                    "label": "Fio banka",
+                    "percent": 5.701754385964912,
+                    "percent_avg": 6.937939110070257
+                },
+                {
+                    "label": "Peugeot",
+                    "percent": 5.701754385964912,
+                    "percent_avg": 7.377049180327869
+                },
+                {
+                    "label": "Renault",
+                    "percent": 5.701754385964912,
+                    "percent_avg": 8.021077283372366
+                },
+                {
+                    "label": "Red & White",
+                    "percent": 5.701754385964912,
+                    "percent_avg": 3.425058548009368
+                },
+                {
+                    "label": "Equa bank",
+                    "percent": 5.263157894736842,
+                    "percent_avg": 6.23536299765808
+                },
+                {
+                    "label": "Citroen",
+                    "percent": 4.824561403508771,
+                    "percent_avg": 4.4203747072599535
+                },
+                {
+                    "label": "Sparta",
+                    "percent": 3.9473684210526314,
+                    "percent_avg": 2.019906323185012
+                },
+                {
+                    "label": "Era (Poštovní spořitelna)",
+                    "percent": 3.070175438596491,
+                    "percent_avg": 6.147540983606557
+                },
+                {
+                    "label": "Toyota",
+                    "percent": 3.070175438596491,
+                    "percent_avg": 1.9906323185011712
+                },
+                {
+                    "label": "Kia",
+                    "percent": 2.631578947368421,
+                    "percent_avg": 1.5515222482435598
+                },
+                {
+                    "label": "Hyundai",
+                    "percent": 2.1929824561403506,
+                    "percent_avg": 3.0737704918032787
+                },
+                {
+                    "label": "Opel",
+                    "percent": 2.1929824561403506,
+                    "percent_avg": 3.278688524590164
+                },
+                {
+                    "label": "UniCredit Bank",
+                    "percent": 1.7543859649122806,
+                    "percent_avg": 2.810304449648712
+                },
+                {
+                    "label": "Sberbank",
+                    "percent": 0.8771929824561403,
+                    "percent_avg": 0.29274004683840754
+                }
+            ]
+        }
+    ],
+    "title": "Češi, kteří čtou E15",
+    "subtitle": "81 000 čtenářů"
+}
