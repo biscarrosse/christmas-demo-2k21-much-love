@@ -3,6 +3,7 @@ import Head from 'next/head'
 import Homepage from '../common/components/Homepage'
 import DataList from '../common/components/DataList'
 import { getData, APIData } from '../modules/dataService'
+import Default from '../common/components/Layouts/Default'
 
 export const getStaticProps: GetStaticProps = async () => {
     try {
@@ -41,5 +42,7 @@ const Home = ({ data }: Data) => {
         </div>
     )
 }
+
+Home.PageLayout = Default
 
 export default Home
