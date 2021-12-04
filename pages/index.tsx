@@ -2,17 +2,41 @@ import { GetStaticProps } from 'next'
 import Head from 'next/head'
 import Homepage from '../common/components/Homepage'
 import DataList from '../common/components/DataList'
-import { getData, APIData } from '../modules/dataService'
+import {
+    getData,
+    APIData,
+    DataObject,
+    Field,
+    Item,
+} from '../modules/dataService'
 import Default from '../common/components/Layouts/Default'
+import { getPosition } from '../common/utils'
+
+const getEnrichedData = (data: DataObject) => {
+    const result = data.data.map((item: Field) => {
+        return {
+            ...item,
+            items: item.items.map((it: Item) => ({
+                ...it,
+                position: getPosition(it),
+            })),
+        }
+    })
+    return { ...data, data: result }
+}
 
 export const getStaticProps: GetStaticProps = async () => {
     try {
-        const data: APIData = await getData()
-        console.log(`here's your data kind sire:`, data)
+        const dataList: APIData = await getData()
+
+        const enrichedDataList = {
+            ...dataList,
+            data: getEnrichedData(dataList.data),
+        }
 
         return {
             props: {
-                data,
+                dataList: enrichedDataList,
             },
         }
     } catch (error) {
@@ -23,9 +47,9 @@ export const getStaticProps: GetStaticProps = async () => {
 }
 
 export interface Data {
-    data: Data
+    dataList: APIData
 }
-const Home = ({ data }: Data) => {
+const Home = ({ dataList }: Data) => {
     return (
         <div>
             <Head>
@@ -38,7 +62,8 @@ const Home = ({ data }: Data) => {
             </Head>
 
             <Homepage />
-            <DataList data={data} />
+
+            <DataList dataList={dataList} />
         </div>
     )
 }
