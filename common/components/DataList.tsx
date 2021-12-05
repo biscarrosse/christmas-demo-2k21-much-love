@@ -1,9 +1,14 @@
+// React:
 import { useState } from 'react'
+// Types
 import { Data } from '../../pages'
-import { ButtonList } from '../style/divs.style'
-import { ButtonFilter } from '../style/buttons.style'
-import CategoryComponent from '../components/Category'
 import { Field, Item, DataObject } from '../../modules/dataService'
+// Styled:
+import { ButtonList, Head } from '../style/divs.style'
+import { H1, P } from '../style/text.style'
+// Comps:
+import CategoryComponent from '../components/Category'
+import { Button } from '../components/Button'
 
 const DataList = ({ dataList }: Data) => {
     const { data, message } = dataList
@@ -13,14 +18,12 @@ const DataList = ({ dataList }: Data) => {
     const handleAll = () => setState(data)
 
     const getFiltered = (cmd: string): DataObject => {
-        const result = data.data.map((item: Field) => {
-            return {
-                ...item,
-                items: item.items.filter((it: Item) => {
-                    return it.position === cmd
-                }),
-            }
-        })
+        const result = data.data.map((item: Field) => ({
+            ...item,
+            items: item.items.filter((it: Item) => {
+                return it.position === cmd
+            }),
+        }))
         return { ...data, data: result }
     }
 
@@ -36,21 +39,25 @@ const DataList = ({ dataList }: Data) => {
 
     return (
         <div>
-            <h1>{data.title}</h1>
-            <h2>{data.subtitle}</h2>
-            <ButtonList>
-                <ButtonFilter color="average" onClick={handleAll}>
-                    Vse
-                </ButtonFilter>
-                <ButtonFilter color="above" onClick={handleAbove}>
-                    Nadprumer
-                </ButtonFilter>
-                <ButtonFilter color="below" onClick={handleBelow}>
-                    Podprumer
-                </ButtonFilter>
-            </ButtonList>
+            <Head className="list__head">
+                <H1>{data.title}</H1>
+                <P color="gray">{data.subtitle}</P>
+                <ButtonList>
+                    <Button callback={handleAll} color="average" text="Vse" />
+                    <Button
+                        callback={handleAbove}
+                        color="above"
+                        text="Nadprumer"
+                    />
+                    <Button
+                        callback={handleBelow}
+                        color="below"
+                        text="Podprumer"
+                    />
+                </ButtonList>
+            </Head>
 
-            <div>
+            <div className="list__categories__wrap">
                 {state.data.map((item, idx) => {
                     return (
                         <CategoryComponent
